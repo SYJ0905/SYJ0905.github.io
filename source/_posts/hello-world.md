@@ -1,6 +1,8 @@
 ---
-title: 測試第一篇文章
+title: 寫部落格的理由
 date: 2019-08-30
+tag: 學習經驗
+categories: 學習經驗
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
