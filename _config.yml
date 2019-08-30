@@ -4,8 +4,8 @@
 
 # Site
 title: Cloud's Blog - 前端無底洞，一起來挖洞
-subtitle:
-description:
+subtitle: 小克的前端技術 Blog
+description: Cloud's Blog - 前端無底洞，一起來挖洞
 keywords:
 author: Cloud Su
 language: zh-TW
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
