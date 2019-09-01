@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 小克的前端技術 Blog
-subtitle: Cloud's Blog - 前端無底洞，一起來挖洞
-description: Cloud's Blog - 前端無底洞，一起來挖洞
-keywords:
-author: Cloud Su
-language: zh-TW
+title: 小克的前端技術 Blog # 網站標題
+subtitle: Cloud's Blog - 前端無底洞，一起來挖洞 # 網站副標題
+description: Cloud's Blog - 前端無底洞，一起來挖洞 # 網站敘述
+keywords: # 關鍵字
+author: Cloud Su # 網站作者
+language: zh-TW # 網站語系
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://syj0905.github.io
+url: https://syj0905.github.io # 網址
 root: /
 permalink: :category/:year:month:day/:title/
 permalink_defaults:
