@@ -7,7 +7,7 @@ categories: Hexo
 
 ## 前言
 NexT 提供很多設定可以讓每位使用者依據個人喜好來做修改，建立專屬於你的個人配置。本身有點強迫症的我來說，文章必須要井然有序的分類整齊，而不單單只是紀錄而已，畢竟之後開發時如果忘記一些資訊也比較好找。
-有關 NexT 的設置均在 themes 中的 `_config.yml` 來做修改，而不是在跟目錄的 `_config.yml` 喔!!
+有關 NexT 的設置均在 themes 中的 `_config.yml` 來做修改，而不是在根目錄的 `_config.yml` 喔!!
 
 ## 選擇 Scheme
 ![選擇 Scheme](https://i.imgur.com/omz7nSs.png "選擇 Scheme")
