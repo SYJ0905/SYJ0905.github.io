@@ -9,6 +9,9 @@ categories: Hexo
 
 為了避免其他架站教學的文章遺失，乾脆就自己架站紀錄一下，順便來跟各位小夥伴說明會遇到那些意想不到的坑喔!!
 
+本系列教學文來自 Ray 的系列文章在此附上連結，感謝大神的踩雷紀錄!!
+Ray 的 [Hexo 全系列](https://hsiangfeng.github.io/categories/hexo/)
+
 ![Hexo](https://i.imgur.com/SmnCmdV.png "Hexo 官網")
 
 ## 建立 Github Repo
@@ -122,7 +125,7 @@ deploy:
 
 註: d g => 部屬靜態頁面(不要寫反了!!)
 
-### 其他指令
+## 其他指令
 
 `hexo clean`
 
