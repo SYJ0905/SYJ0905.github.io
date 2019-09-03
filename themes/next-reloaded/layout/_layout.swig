@@ -43,7 +43,10 @@
           <div id="content" class="content">
             {% block content %}{% endblock %}
           </div>
-          {% include '_partials/comments.swig' %}
+          {% set page_type = page.type === 'tags' || page.type === 'categories' %}
+          <div style="{%if page_type %} visibility:hidden; height:0px;{% endif %}">
+            {% include '_partials/comments.swig' %}
+          </div>
         </div>
         {%- if theme.sidebar.display !== 'remove' %}
           {% block sidebar %}{% endblock %}
