@@ -82,6 +82,26 @@ search:
   format: html
   limit: 10000
 
+## hexo-neat
+# 壓縮
+neat_enable: true
+# 壓縮HTML
+neat_html:
+  enable: true
+  exclude:
+# 壓縮CSS
+neat_css:
+  enable: true
+  exclude:
+    - '**/*.min.css'
+# 壓縮JS
+neat_js:
+  enable: false
+  mangle: true
+  output:
+  compress:
+  exclude:
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
