@@ -696,11 +696,11 @@ gitalk:
 
 # Facebook SDK Support
 facebook_sdk:
-  enable:       false
-  app_id:       # <app_id>
+  enable:       true
+  app_id:       472598693595009 # <app_id>
   fb_admin:     # <user_id>
-  like_button:  # true
-  webmaster:    # true
+  like_button:  true # true
+  webmaster:    true # true
 
 # Facebook comments plugin
 # This plugin depends on Facebook SDK.
