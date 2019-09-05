@@ -53,6 +53,20 @@ avatar:
 ![社群連結](https://i.imgur.com/7HhII0s.png "社群連結")
 想顯示哪個就取消註解並更改連結就能使用了。
 
+### 加入友情連結
+在 _config.yml 搜尋 `links_settings`，加入其他部落格連結
+```
+# Blog rolls
+links_settings:
+  icon: link
+  title: 友情連結
+  # Available values: block | inline
+  layout: block
+
+links:
+  顯示名稱: // 網址
+```
+
 ## 版權設置
 在 _config.yml 搜尋 `copyright`，不輸入則顯示網站作者名稱
 其他有 Hexo 預設的字也能清除，可參考底下圖片及紅箭頭處

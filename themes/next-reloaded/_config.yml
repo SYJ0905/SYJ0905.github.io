@@ -216,12 +216,12 @@ social_icons:
 # Blog rolls
 links_settings:
   icon: link
-  title: Links
+  title: 友情連結
   # Available values: block | inline
   layout: block
 
 links:
-  #Title: http://example.com
+  Ray's Blog: https://hsiangfeng.github.io
 
 # Sidebar Avatar
 avatar:
