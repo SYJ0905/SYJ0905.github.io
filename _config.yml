@@ -102,6 +102,17 @@ neat_js:
   compress:
   exclude:
 
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: icon.png
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:

@@ -1,5 +1,5 @@
 ---
-title: Hexo 架站攻略-建立與部署
+title: Hexo 架站攻略 - 建立與部署
 date: 2019-09-01
 tags: Hexo
 categories: Hexo

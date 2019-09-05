@@ -1,5 +1,5 @@
 ---
-title: Hexo 架站攻略-NexT 相關設定
+title: Hexo 架站攻略 - NexT 相關設定
 date: 2019-09-02
 tags: Hexo
 categories: Hexo

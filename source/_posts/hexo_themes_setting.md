@@ -1,5 +1,5 @@
 ---
-title: Hexo 架站攻略-主題配置
+title: Hexo 架站攻略 - 主題配置
 date: 2019-09-02
 tags: Hexo
 categories: Hexo
