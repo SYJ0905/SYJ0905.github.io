@@ -6,6 +6,7 @@ categories: Hexo
 ---
 ## 前言
 RSS（簡易資訊聚合）是一種訊息來源格式規範，用以聚合經常發布更新資料的網站。訂閱 RSS 意味著當網站更新時，方便用戶獲取最新內容，可以時時關注最新文章。
+<!-- more -->
 ## 安裝套件
 參考來源: [hexo-generator-feed](https://github.com/hexojs/hexo-generator-feed)
 輸入以下安裝指令

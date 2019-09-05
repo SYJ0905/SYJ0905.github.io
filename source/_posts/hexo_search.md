@@ -6,7 +6,7 @@ categories: Hexo
 ---
 ## 前言
 平常找資源時都會下關鍵字找資料，當然在部落格也希望能夠快速地找到符合自己需求的文章，正所謂時間就是金錢，跟著以下操作為部落格加入搜尋功能吧!!
-
+<!-- more -->
 ## 安裝搜尋套件
 NexT 有提供本身的搜尋功能，輸入以下指令即可
 [hexo-generator-searchdb](https://github.com/theme-next/hexo-generator-searchdb)
