@@ -113,6 +113,11 @@ feed:
   order_by: -date
   icon: icon.png
 
+nofollow:
+	enable: true
+	exclude:
+    - https://hsiangfeng.github.io
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
