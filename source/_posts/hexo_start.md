@@ -44,11 +44,11 @@ hexo s
 在 _config.yml 找到 `Site`，並設定您的內容
 ```
 # Site
-title: 小克的前端技術 Blog # 網站標題
-subtitle: Cloud's Blog - 前端無底洞，一起來挖洞 # 網站副標題
-description: Cloud's Blog - 前端無底洞，一起來挖洞 # 網站敘述
+title: Cloud F2E Blog # 網站標題
+subtitle: 前端開發紀錄 # 網站副標題
+description: Front End Engineer # 網站敘述
 keywords: # 關鍵字
-author: Cloud Su # 網站作者
+author: Cloud # 網站作者
 language: zh-TW # 網站語系
 timezone:
 

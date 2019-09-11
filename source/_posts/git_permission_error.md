@@ -8,7 +8,7 @@ description: 同一台電腦在 push 不同遠端資料庫時出現的問題，G
 
 ## 前言
 以下先說明一下情境:
-小克在公司第一天，就直接登入公司的 Github 並 clone 下一份專案，開啟分支進行他的第一份任務。完成後 push 上遠端也沒什麼問題。隔天，小克想要紀錄一下昨天開發時遇到的問題，就登入自己的 Github clone 自己的部落格資料夾，一樣開始撰寫文章，等到要 push 上遠端時，git 出現了以下情形:
+Cloud 在公司第一天，就直接登入公司的 Github 並 clone 下一份專案，開啟分支進行他的第一份任務。完成後 push 上遠端也沒什麼問題。隔天，Cloud 想要紀錄一下昨天開發時遇到的問題，就登入自己的 Github clone 自己的部落格資料夾，一樣開始撰寫文章，等到要 push 上遠端時，git 出現了以下情形:
 ```
 remote: Permission to SYJ0905/SYJ0905.github.io.git denied to XXX.
 fatal: unable to access 'https://github.com/SYJ0905/SYJ0905.github.io.git/': The requested URL returned error: 403
