@@ -12,7 +12,7 @@ description: 在 webpack 加入 scss 插件
 [sass-loader](https://github.com/webpack-contrib/sass-loader)
 輸入以下安裝指令
 ```
-npm install css-loader sass-loader node-sass mini-css-extract-plugin --save-dev
+npm install style-loader css-loader sass-loader node-sass mini-css-extract-plugin --save-dev
 ```
 註: `css-loader` sass 官網雖然沒有寫在安裝指令內，但還是必須要安裝，因為讓網站能夠顯示 CSS 樣式的插件
 `mini-css-extract-plugin` 是用來將每個由 webpack 產生內含有 css 的 js 檔案轉成 css 檔。
@@ -39,6 +39,7 @@ module.exports = {
       {
         test: /\.s[ac]ss$/i,
         use: [
+          'style-loader',
           MiniCssExtractPlugin.loader,
           'css-loader',
           'sass-loader',
@@ -55,13 +56,12 @@ module.exports = {
       }
     }),
     new MiniCssExtractPlugin({
-      filename: '/css/all.css',
+      filename: 'css/all.css',
     }),
   ],
 };
 ```
 輸入 `npm run dev` 就能產出 css 資料夾以及檔案，並且也能正確顯示 CSS 樣式
-![](https://i.imgur.com/ZqMGpkj.png)
 
 ## 加入 sourcemap
 如果不使用 sorcemap 的話，在瀏覽器查看樣式時會看到合併完成的檔案，這會讓開發人員難以找出問題所在的原始檔案。使用 sourcemap 就能在開發時也清楚知道每一行的樣式是在哪隻 SCSS 檔案內。
@@ -87,6 +87,7 @@ module.exports = {
       {
         test: /\.s[ac]ss$/i,
         use: [
+          'style-loader',
           MiniCssExtractPlugin.loader,
           {
             loader: 'css-loader',
@@ -114,7 +115,7 @@ module.exports = {
     }),
     new MiniCssExtractPlugin({
       path: path.resolve(__dirname, 'dist'),
-      filename: '/css/all.css',
+      filename: 'css/all.css',
     }),
   ],
 };
