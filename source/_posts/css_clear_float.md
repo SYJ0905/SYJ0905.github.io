@@ -1,9 +1,8 @@
 ---
 title: 什麼!! overflow:hidden 清除浮動
-date: 2019-11-6
-tags: 
-  - CSS
-categories: CSS
+date: 2019-11-06
+tags: css
+categories: css
 description: 想不到清除浮動除了 clearboth 以外，還有 overflow:hidden !!
 ---
 ## 前言
@@ -11,7 +10,7 @@ description: 想不到清除浮動除了 clearboth 以外，還有 overflow:hidd
 然而，還有另一個用途就是清除包含子層的浮動。
 
 ## 示範模板
-``` html
+```
 <body>
   <div class="parent">
     <div class="child1"></div>
@@ -19,7 +18,7 @@ description: 想不到清除浮動除了 clearboth 以外，還有 overflow:hidd
   </div>
 </body>
 ```
-``` css
+```
 .parent {
   width: 300px; 
   background: #ddd; 
