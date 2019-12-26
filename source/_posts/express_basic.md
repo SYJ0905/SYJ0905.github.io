@@ -6,7 +6,7 @@ tags:
   - Node.js
   - JavaScript
 categories: Node.js
-description: 
+description: 學習 Express.js 前後端開發自己來，真牛逼!!
 ---
 ## Express
 [Express.js Wiki](https://zh.wikipedia.org/wiki/Express.js)
