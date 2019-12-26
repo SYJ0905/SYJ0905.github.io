@@ -24,6 +24,9 @@ const app = express();
 app.get('/', function (req, res) {
   res.send('Hello Express');
 });
+app.get('/test', function (req, res) {
+  res.send('測試');
+});
 
 // 監聽 port
 const port = process.env.PORT || 3000;
@@ -33,3 +36,31 @@ app.listen(port, function () {
 ```
 最後輸入 `node app.js` 並開啟 `localhost:3000` ， 如果有看到 `Hello Express` 的話就代表成功囉!!
 
+## 細節講解
+* 引入 `Express`，並宣告變數以便之後使用。
+``` JavaScript
+const express = require('express');
+const app = express();
+```
+* 設定路由
+使用 `get()` API 則可以新增一個路由，並當使用者進入此路由後回傳頁面內容給使用者。
+路由規則: 
+`/`: 代表網址列上輸入 `localhost:3000`
+`/test`: test 可以更換成自定義名稱，並對應該路徑 `localhost:3000/test`
+``` JavaScript
+app.get('/', function (req, res) {
+  res.send('Hello Express');
+});
+app.get('/test', function (req, res) {
+  res.send('測試');
+});
+```
+* 開啟 Web Server
+使用 `listen()` API 指定 `port` 號
+註: `process.env.PORT` 當部屬到正式主機時，由於主機商會有自定的 `port` 號，所以必須加這行，如果沒有的話才用自定義的 `port` 號
+``` JavaScript
+const port = process.env.PORT || 3000;
+app.listen(port, function () {
+  console.log('Example app listening on port 3000!');
+});
+```
