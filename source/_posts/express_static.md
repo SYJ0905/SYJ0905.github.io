@@ -5,7 +5,7 @@ tags:
   - Express
   - Node.js
   - JavaScript
-categories: Node.js
+categories: Express.js
 description: 靜態檔案是用來存放 CSS、JS、圖片檔等等，後續 template 在引入這些檔案時才會找到正確路徑。
 ---
 ## 前言

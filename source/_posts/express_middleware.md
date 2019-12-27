@@ -5,7 +5,7 @@ tags:
   - Express
   - Node.js
   - JavaScript
-categories: Node.js
+categories: Express.js
 description: 以為輸入網址就能隨便進入任何網頁嗎?有了 middleware 就能夠阻擋較為隱私的網頁不讓使用者輕鬆輸入網址進入呦!! 
 ---
 ## 前言

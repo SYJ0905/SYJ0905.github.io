@@ -5,7 +5,7 @@ tags:
   - Express
   - Node.js
   - JavaScript
-categories: Node.js
+categories: Express.js
 description: 使用 template 模版語言不但提高了可維護性還降低程式碼重複性呢!!
 ---
 ## 前言
@@ -13,7 +13,7 @@ description: 使用 template 模版語言不但提高了可維護性還降低程
 最簡單的例子就是當 `header` 有變更時，所有頁面的 `header` 必須修正，這就得一頁一頁的修改，效率極為慘烈。
 於是 `template` 模版語言就是因此而被開發出來，不僅能夠讓所有頁面共用同一份 `layout` ，還能使用 `迴圈`、`判定參數`、`傳入資料`等行為，將開發效率提升了一個檔次，其實很多前端開發者到後來都不再寫 `HTML` 了，而轉成寫 `ejs`、`pug`等模版語言，只需要搭配編譯工具轉成 `HTML` 即可達到 `具有簡潔的架構`、`易維護` 的成效。
 
-## 引入套件
+## 安裝套件
 我們使用的是 `ejs-locals` 的套件，以下附上官方 github 及 npm 連結
 [ejs-locals github](https://github.com/randometc/ejs-locals)
 [ejs-locals npm](https://www.npmjs.com/package/ejs-locals)

@@ -5,7 +5,7 @@ tags:
   - Express
   - Node.js
   - JavaScript
-categories: Node.js
+categories: Express.js
 description: 使用 Express 自定網站路由以及參數。
 ---
 ## 網址組成
