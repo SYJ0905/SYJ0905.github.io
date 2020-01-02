@@ -247,4 +247,65 @@ router.get('/', function(req, res, next) {
   <% }) %>;
 </ul>
 ```
+完成以上修正後，已經可以在進入首頁後看到資料顯示。
+接下來就是最後的刪除部分囉，一起加油吧!!
 
+## 後端新增 delete API
+刪除 API 的路由是 `/deleteTodo`，在 `routes/index` 中新增 `router.delete('/deleteTodo')`。
+修改範例請參照以下程式碼:
+``` JavaScript
+router.delete('/deleteTodo', function(req, res) {
+  // 接收前端傳 todo 的 id 進來
+  const todoId = req.body.id;
+  firebaseAdmin.ref('todo').child(todoId).remove()
+    .then(() => {
+      firebaseAdmin.ref('todo').once('value', (dataSnapshot) => {
+        const listData = [];
+        dataSnapshot.forEach(item => {
+          const itemInfo = item.val(); // item.val() 為一物件
+          itemInfo.key = item.key; // item.key 取唯一值
+          listData.push(itemInfo);
+        });
+        res.send({
+          success: true,
+          result: listData,
+          message: '刪除成功',
+        });
+      });
+    });
+});
+```
+
+## 前端模版修正
+多了刪除功能，代表也要有按鈕綁定事件。所以模版也需要一併修正
+``` HTML
+<ul class="todoList">
+  <% listData.forEach(function(item){ %>
+    <li data-key="<%= item.key %>"><%= item.content %> - 
+      <a href="#" data-key="<%= item.key %>">刪除</a>
+    </li>
+  <% }) %>
+</ul>
+```
+
+## 前端串接刪除資料
+在 `all.js` 中加入刪除功能
+``` JavaScript
+todoList.addEventListener('click', deleteTodo);
+
+function deleteTodo(e) {
+  e.preventDefault();
+  if (e.target.nodeName !== 'A') return;
+  const data = {
+    id: e.target.dataset.key,
+  };
+  axios.delete('/deleteTodo', {
+    data,
+  })
+    .then((res) => {
+      console.log(res);
+      renderTodo(res.data);
+    });
+}
+```
+終於完成最簡易的前後端串接代辦清單啦!!
