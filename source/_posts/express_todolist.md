@@ -24,7 +24,7 @@ description: 運用 Express 後端接收資料，並搭配 Firebase 資料庫，
 [dotenv github](https://github.com/motdotla/dotenv)
 [dotenv npm](https://www.npmjs.com/package/dotenv)
 來說說為什麼要 `dotenv` 這個套件吧!
-1. 上一部下載回來的金鑰是一個 `express-todolist-firebase-adminsdk-02zaz-3d9472adf6.json` 這種形式的檔案，其內容包含以下資訊:
+1. 上一步下載回來的金鑰是一個 `express-todolist-firebase-adminsdk-02zaz-3d9472adf6.json` 這種形式的檔案，其內容包含以下資訊:
 ``` JSON
 {
   "type": "xxx",
@@ -39,7 +39,7 @@ description: 運用 Express 後端接收資料，並搭配 Firebase 資料庫，
   "client_x509_cert_url": "xxx"
 }
 ```
-當然你可以將整個檔案重新命名並參考官方的引入方式，上一部複製程式碼區塊的地方
+當然你可以將整個檔案重新命名並參考官方的引入方式，上一步複製程式碼區塊的地方
 ``` JavaScript
 var serviceAccount = require("path/to/serviceAccountKey.json");
 ```
@@ -54,20 +54,23 @@ npm install --save dotenv firebase-admin
 * 在 `根目錄` 新增 `.env` 檔案，並根據 `私密金鑰` 的內容填入。
 注意: 這裡的的雙引號可加可不加，但 `FIREBASE_PRIVATE_KEY` 一定要加，不然 `100%` 報錯，因為內容含有 `特殊符號`，詳細規則可參照以下官方說明
 [dotenv#rules](https://github.com/motdotla/dotenv#rules)
+關於 `FIREBASE_PRIVATE_KEY` 加雙引號的寫法在部屬到 heroku 時會有問題，所以這邊就不加雙引號了。
+但必須在引入的時候注意寫法，以下有提供範例程式碼
 ``` env
-FIREBASE_DATABASEURL="xxx"
-FIREBASE_TYPE="xxx"
-FIREBASE_PROJECT_ID="xxx"
-FIREBASE_PRIVATE_KEY_ID="xxx"
-FIREBASE_PRIVATE_KEY="xxx"
-FIREBASE_CLIENT_EMAIL="xxx"
-FIREBASE_CLIENT_ID="xxx"
-FIREBASE_AUTH_URL="xxx"
-FIREBASE_TOKEN_URL="xxx"
-FIREBASE_AUTH_PROVIDE_X509_CERT_URL="xxx"
-FIREBASE_CLIENT_X509_CERT_URL="xxx"
+FIREBASE_DATABASEURL=xxx
+FIREBASE_TYPE=xxx
+FIREBASE_PROJECT_ID=xxx
+FIREBASE_PRIVATE_KEY_ID=xxx
+FIREBASE_PRIVATE_KEY=xxx
+FIREBASE_CLIENT_EMAIL=xxx
+FIREBASE_CLIENT_ID=xxx
+FIREBASE_AUTH_URL=xxx
+FIREBASE_TOKEN_URL=xxx
+FIREBASE_AUTH_PROVIDE_X509_CERT_URL=xxx
+FIREBASE_CLIENT_X509_CERT_URL=xxx
 ```
 * 在 `根目錄` 新增 `plugins` 資料夾並創建一支 `firebase-admin.js`，名稱隨你命名，只要最後路徑對就好
+註: `private_key` 的寫法會不太一樣，原本應該是 `process.env.FIREBASE_PRIVATE_KEY`，必須修改成 `process.env.FIREBASE_PRIVATE_KEY.replace(/\\n/g, '\n')`，這樣部屬 heroku 才不會有問題。
 ``` JavaScript
 const firebaseAdmin = require('firebase-admin');
 // 引入 dotenv 檔
@@ -80,7 +83,7 @@ firebaseAdmin.initializeApp({
     type: process.env.FIREBASE_TYPE,
     project_id: process.env.FIREBASE_PROJECT_ID,
     private_key_id: process.env.FIREBASE_PRIVATE_KEY_ID,
-    private_key: process.env.FIREBASE_PRIVATE_KEY,
+    private_key: process.env.FIREBASE_PRIVATE_KEY.replace(/\\n/g, '\n'),
     client_email: process.env.FIREBASE_CLIENT_EMAIL,
     client_id: process.env.FIREBASE_CLIENT_ID,
     auth_uri: process.env.FIREBASE_AUTH_URL,
