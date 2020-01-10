@@ -28,5 +28,5 @@ const favicon = require('serve-favicon');
 app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
 ```
 
-## 結尾favicon
+## 結尾
 都完成以上步驟後開啟服務，就能看見自定義的 favicon 囉!!
