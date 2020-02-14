@@ -144,7 +144,7 @@ var mySwiper = new Swiper('.swiper-container', {
 
 ## 結尾 Demo
 依照上面參考範例打開 `Web server` 就可以同時執行輪播以及切換語系囉。
-[Vue - 使用 Vue I18n 打造多國語系網站環境](https://syj0905.github.io/vue-i18n-sample)
+[Vue - 使用 Vue I18n 打造多國語系網站環境](https://syj0905.github.io/vue-i18n-sample/)
 
 ## 參考資料
 [VUE+VUE i18n 讓HTML靜態網頁，也支援多國語言](https://www.minwt.com/webdesign-dev/js/20464.html)
