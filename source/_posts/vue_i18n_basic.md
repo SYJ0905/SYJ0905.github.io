@@ -4,6 +4,7 @@ date: 2020-02-14
 tags: 
   - Vue
   - JavaScript
+  - w3HexSchool
 categories: Vue
 description: 本文將介紹純前端網站該如何使用 Vue I18n 引入自訂語言包，並達到切換語系的功能。
 ---
