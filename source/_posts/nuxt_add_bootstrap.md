@@ -24,7 +24,7 @@ npm install node-sass sass-loader -D
 有時我們會需要客製化 Bootstrap ，所以我會在創一個 `_bsvariables.scss` 來放置 Bootstrap 的變數，相關做法可以參考下圖方式。
 ![](https://i.imgur.com/3ZCcUry.png)
 
-## 配置 css 設定檔
+## 配置 CSS 設定檔
 由於前面有提到 Nuxt 本身沒有 `App.vue` 可以當作進入點，所以會直接在設定檔做引入 scss 的設定。
 來到 `nuxt.config.js` 搜尋 `Global CSS` 並修改配置
 ```

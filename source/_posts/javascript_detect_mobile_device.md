@@ -3,10 +3,10 @@ title: JavaScript - 如何偵測使用者的裝置是否為行動裝置
 date: 2019-11-18
 tags: JavaScript
 categories: JavaScript
-description: css 有了 media query 處理多裝置的樣式，那麼 JavaScript 該如何解決多裝置的判定呢?
+description: CSS 有了 media query 處理多裝置的樣式，那麼 JavaScript 該如何解決多裝置的判定呢?
 ---
 ## 前言
-實務上有時會根據使用者的裝置來決定部分功能是否開啟或關閉，單純使用 css 的 media query 斷點有個缺點是手機有功能要開啟但桌面、平板是關閉的，而使用者縮放視窗到手機尺寸時則會變成能使用該功能。
+實務上有時會根據使用者的裝置來決定部分功能是否開啟或關閉，單純使用 CSS 的 media query 斷點有個缺點是手機有功能要開啟但桌面、平板是關閉的，而使用者縮放視窗到手機尺寸時則會變成能使用該功能。
 有鑑於此，我們必須要使用 JavaScript 來判定使用者的裝置，而不是依據 media query 斷點。
 
 ## 判斷依據

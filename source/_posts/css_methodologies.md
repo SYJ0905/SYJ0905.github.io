@@ -1,8 +1,8 @@
 ---
 title: CSS - 模組化的方法 OOCSS、SMASS、BEM
 date: 2019-11-21
-tags: css
-categories: css
+tags: CSS
+categories: CSS
 description: 這麼多種規範或是方法存在的目的都是為了讓程式碼易懂、可重複用，有效增加開發效率和後續維護
 ---
 ## OOCSS (Object Oriented CSS)

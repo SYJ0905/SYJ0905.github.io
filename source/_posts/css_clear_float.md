@@ -1,8 +1,8 @@
 ---
 title: 什麼!! overflow:hidden 清除浮動
 date: 2019-11-06
-tags: css
-categories: css
+tags: CSS
+categories: CSS
 description: 想不到清除浮動除了 clearboth 以外，還有 overflow:hidden !!
 ---
 ## 前言
