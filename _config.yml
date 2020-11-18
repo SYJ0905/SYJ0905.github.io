@@ -27,6 +27,7 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+# links_dir: links ## 更多資訊
 
 # Writing
 new_post_name: :year-:month-:day-:title.md # File name of new posts
@@ -90,7 +91,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next-reloaded
+# theme: next-reloaded
+theme: next
 
 # 搜尋功能
 search:
