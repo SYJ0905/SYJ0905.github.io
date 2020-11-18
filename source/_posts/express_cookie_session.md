@@ -1,13 +1,15 @@
 ---
 title: Express.js - Cookie 和 session 應用
-date: 2020-01-02
-tags: 
+tags:
   - Express
-  - Node.js
+  - Nodejs
   - JavaScript
   - Storage
-categories: Express.js
+categories:
+  - Nodejs
 description: 本篇會介紹如何在後端 Express.js 中使用 Cookie 和 Session 存儲資料
+abbrlink: 1975209315
+date: 2020-01-02 00:00:00
 ---
 ## 前言
 有一點必須先釐清，這邊所以提 Session 是屬於後端儲存庫，而跟 HTML5 中的 SessionStorage 是不一樣的。

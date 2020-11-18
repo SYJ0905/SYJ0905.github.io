@@ -1,13 +1,15 @@
 ---
 title: Express.js - Gmail 發送信件實作 + OAuth 2.0
-date: 2020-01-06
-tags: 
+tags:
   - Express
-  - Node.js
+  - Nodejs
   - JavaScript
   - OAuth
-categories: Express.js
+categories:
+  - Nodejs
 description: 使用 Google OAuth 2.0 + Express 製作更安全的寄信應用程式吧!!
+abbrlink: 4047671532
+date: 2020-01-06 00:00:00
 ---
 ## 前言
 原本在 nodemailer 中輸入 Gmail 的帳號密碼就能夠發送信件，但 Google 基於安全性考量，在近幾年推出 OAuth 2.0 驗證機制。也就是必須跟 Google 取得 token 才能使用該帳號進行寄信功能

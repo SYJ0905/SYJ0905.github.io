@@ -1,7 +1,6 @@
 ---
 title: HTML - 響應式圖片技巧
-date: 2020-11-17
-tags: 
+tags:
   - HTML
   - Image
   - Picture
@@ -10,8 +9,11 @@ tags:
   - 效能調校
   - 加載效能
   - Media Query
-categories: HTML
+categories:
+  - HTML
 description: 本篇將介紹在網頁中使用圖片時需要注意哪些事以及提高網頁加載效能。
+abbrlink: 3198070904
+date: 2020-11-17 00:00:00
 ---
 ## 前言
 覺得圖片載入太慢嗎?覺得圖片在某些裝置模糊嗎?在網頁上使用適當的圖片格式、尺寸能有效的讓網站體驗更加，以下將介紹如何使用 `<picture> 、 <source> 、 <img>` 來讓瀏覽器根據自身環境決定最適當的圖檔。

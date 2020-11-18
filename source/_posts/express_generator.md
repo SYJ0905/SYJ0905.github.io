@@ -1,12 +1,14 @@
 ---
 title: Express.js - generator 應用產生器
-date: 2019-12-30
-tags: 
+tags:
   - Express
-  - Node.js
+  - Nodejs
   - JavaScript
-categories: Express.js
+categories:
+  - Nodejs
 description: 前面講了很多 Express 的設定，如果每個專案都要從頭設定肯定超白癡的，這時就能使用 Express 的應用產生器，直接幫我們產出一個應用程式的結構。
+abbrlink: 2267746451
+date: 2019-12-30 00:00:00
 ---
 ## 安裝套件
 我們使用的是 `express-generator` 的套件，以下附上官方 github 及 npm 連結

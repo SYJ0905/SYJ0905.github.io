@@ -1,11 +1,13 @@
 ---
 title: Vue - 部署至 Google App Engine
-date: 2020-04-19
 tags:
   - Vue
   - w3HexSchool
-categories: Vue
+categories:
+  - Vue
 description: 本篇將介紹如何把 Vue Cli 打包後的專案部屬至 GAE(Google App Engine)
+abbrlink: 4265981960
+date: 2020-04-19 00:00:00
 ---
 ## 前言
 請先建立好 `Google Cloud Platform` 服務，再開始以下內容。

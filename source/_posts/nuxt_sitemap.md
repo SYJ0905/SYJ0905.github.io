@@ -1,11 +1,13 @@
 ---
 title: Nuxt 加入 sitemap
-date: 2019-10-23
-tags: 
-  - nuxt
-  - seo
-categories: nuxt
+tags:
+  - Vue
+  - SEO
+categories:
+  - Vue
 description: 為了讓搜尋引擎能更有效爬蟲，快來加入 sitemap 吧!!
+abbrlink: 3642864122
+date: 2019-10-23 00:00:00
 ---
 ## 前言
 前言越來越難寫了，直接附上 wiki 連結比較快XD

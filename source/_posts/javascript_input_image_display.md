@@ -1,11 +1,13 @@
 ---
 title: JavaScript - 實現 input file 圖片預覽功能
-date: 2020-04-26
 tags:
   - JavaScript
   - w3HexSchool
-categories: JavaScript
+categories:
+  - JavaScript
 description: 本篇將介紹如何將 input file 的圖片檔案顯示出來。
+abbrlink: 4258008084
+date: 2020-04-26 00:00:00
 ---
 ## 前言
 最近在負責公司後台的管理系統，有一個需求是需要上傳本地端圖片，但同時也必須在加入圖片時就顯示出來讓管理者預覽，以下就跟我一起來時做看看吧。

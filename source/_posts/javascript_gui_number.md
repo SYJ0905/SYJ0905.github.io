@@ -1,11 +1,13 @@
 ---
 title: JavaScript - 統一編號驗證實作
-date: 2019-11-19
-tags: 
+tags:
   - JavaScript
   - Vue
-categories: JavaScript
+categories:
+  - JavaScript
 description: 用最簡單的方式來做統一編號驗證吧!!
+abbrlink: 2134109134
+date: 2019-11-19 00:00:00
 ---
 ## 前言
 雖然說後端也能做統編驗證，但實務上客戶在下單後，後端還要處理統編驗證再回傳確實會不夠快速。

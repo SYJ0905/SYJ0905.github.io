@@ -1,11 +1,13 @@
 ---
 title: Firebase - TodoList
-date: 2019-12-25
-tags: 
+tags:
   - Firebase
   - JavaScript
-categories: Firebase
+categories:
+  - Firebase
 description: 使用 Firebase 製作超簡易 TodoList
+abbrlink: 4123263101
+date: 2019-12-25 00:00:00
 ---
 ## 基本環境設置
 請記得引入 Firebase 的初始化設定

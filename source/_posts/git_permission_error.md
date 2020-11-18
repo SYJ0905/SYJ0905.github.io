@@ -1,9 +1,12 @@
 ---
 title: fatal unable to access XXX The requested URL returned error 403
-date: 2019-09-09
-tags: Git
-categories: Git
+tags:
+  - Git
+categories:
+  - Git
 description: 同一台電腦在 push 不同遠端資料庫時出現的問題，Git 經典問題，來記錄一下該如何解決。
+abbrlink: 4277318126
+date: 2019-09-09 00:00:00
 ---
 
 ## 前言

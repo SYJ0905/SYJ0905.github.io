@@ -1,9 +1,12 @@
 ---
 title: Hexo 架站攻略 - 主題配置
-date: 2019-09-02
-tags: Hexo
-categories: Hexo
-description: 總是要來點跟別人不一樣的，Hexo 預先會有一個預設樣式，但我相信各位小夥伴或許都不是很滿意，這邊提供一個相當多用戶所使用的主題配置 
+tags:
+  - Hexo
+categories:
+  - Hexo
+description: 總是要來點跟別人不一樣的，Hexo 預先會有一個預設樣式，但我相信各位小夥伴或許都不是很滿意，這邊提供一個相當多用戶所使用的主題配置
+abbrlink: 3237703376
+date: 2019-09-02 00:00:00
 ---
 
 ## 前言

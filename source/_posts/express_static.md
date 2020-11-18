@@ -1,12 +1,14 @@
 ---
 title: Express.js - 載入靜態 static 檔
-date: 2019-12-27
-tags: 
+tags:
   - Express
-  - Node.js
+  - Nodejs
   - JavaScript
-categories: Express.js
+categories:
+  - Nodejs
 description: 靜態檔案是用來存放 CSS、JS、圖片檔等等，後續 template 在引入這些檔案時才會找到正確路徑。
+abbrlink: 1171150845
+date: 2019-12-27 00:00:00
 ---
 ## 前言
 截至目前為止，都只會有一支 `app.js` 在撰寫程式碼，如果我們希望使用者進網頁時有看到一些畫面或圖片的話，該怎麼渲染呢?

@@ -1,9 +1,12 @@
 ---
 title: Nuxt 中的驗證機制 requiresAuth
-date: 2019-09-23
-tags: nuxt
-categories: nuxt
+tags:
+  - Vue
+categories:
+  - Vue
 description: 來教大家如何在 Nuxt 中設置 requiresAuth 驗證
+abbrlink: 708662254
+date: 2019-09-23 00:00:00
 ---
 ## 前言
 在 Vue-cli 中可以在 `router` 中直接設定 `meta.requiresAuth` ，並且在進入點 `main.js` 中撰寫驗證代碼。

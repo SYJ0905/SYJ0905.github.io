@@ -1,9 +1,12 @@
 ---
 title: Hexo 架站攻略 - NexT 分類與標籤頁不要有留言板
-date: 2019-09-03
-tags: Hexo
-categories: Hexo
+tags:
+  - Hexo
+categories:
+  - Hexo
 description: 標籤頁跟分類頁好像多了一些奇怪的東西呦
+abbrlink: 1869961432
+date: 2019-09-03 00:00:00
 ---
 
 ## 前言

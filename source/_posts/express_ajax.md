@@ -1,12 +1,14 @@
 ---
 title: Express.js - AJAX 傳送表單資料
-date: 2019-12-27
-tags: 
+tags:
   - Express
-  - Node.js
+  - Nodejs
   - JavaScript
-categories: Express.js
+categories:
+  - Nodejs
 description: 使用 AJAX 非同步傳遞資料更快速也提高使用者體驗!!
+abbrlink: 1695463650
+date: 2019-12-27 00:00:00
 ---
 ## 前言
 傳統的表單與 AJAX 的差異可以先自行 Google ，本篇就不再多贅述了。

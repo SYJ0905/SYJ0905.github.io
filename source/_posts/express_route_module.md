@@ -1,12 +1,14 @@
 ---
 title: Express.js - Route 模組化
-date: 2019-12-30
-tags: 
+tags:
   - Express
-  - Node.js
+  - Nodejs
   - JavaScript
-categories: Express.js
+categories:
+  - Nodejs
 description: 當網頁頁面來越多時，意味著 app.js 會撰寫更多路由設定，最後導致不易維護，本篇就來介紹如何將 Route 模組化吧!!
+abbrlink: 447901249
+date: 2019-12-30 00:00:00
 ---
 ## 建立模組化檔案
 首先在 `根目錄` 新建一個 `routes` 資料夾，並建一支 `admin.js` 檔，

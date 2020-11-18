@@ -1,9 +1,12 @@
 ---
 title: Nuxt 中加入 ESLint
-date: 2019-09-19
-tags: nuxt
-categories: nuxt
+tags:
+  - Vue
+categories:
+  - Vue
 description: 團隊協作代碼規範必備工具 ESLint，本篇將說明如何正確安裝 ESLint 於 Nuxt
+abbrlink: 410090658
+date: 2019-09-19 00:00:00
 ---
 ## 前言
 使用 ESLint 來讓我們代碼具有一致姓，看了就是舒服，維護起來沒煩惱!!

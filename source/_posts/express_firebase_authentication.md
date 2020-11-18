@@ -1,13 +1,15 @@
 ---
 title: Express.js - firebase 會員註冊登入功能
-date: 2020-01-13
-tags: 
+tags:
   - Express
-  - Node.js
+  - Nodejs
   - JavaScript
   - Firebase
-categories: Express.js
+categories:
+  - Nodejs
 description: 利用 Firebase 建立會員及登入會員功能吧!!!
+abbrlink: 1315044221
+date: 2020-01-13 00:00:00
 ---
 ## 安裝套件
 套件名稱: `firebase`

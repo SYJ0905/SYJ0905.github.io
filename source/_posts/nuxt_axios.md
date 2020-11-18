@@ -1,9 +1,12 @@
 ---
 title: Nuxt 中加入 axios
-date: 2019-09-18
-tags: nuxt
-categories: nuxt
+tags:
+  - Vue
+categories:
+  - Vue
 description: 如何在 Nuxt 中加入 Axios
+abbrlink: 2180598570
+date: 2019-09-18 00:00:00
 ---
 ## 前言
 串接資料從最早的 XHR 到 jQuery 的 `$.ajax()` 在到現在最火的 axios，不外乎都是為了更有效的解決開發問題，今天就帶著大家在 Nuxt 中加入 Axios 吧!

@@ -1,12 +1,14 @@
 ---
 title: Express.js - 基礎介紹
-date: 2019-12-26
-tags: 
+tags:
   - Express
-  - Node.js
+  - Nodejs
   - JavaScript
-categories: Express.js
+categories:
+  - Nodejs
 description: 學習 Express.js 前後端開發自己來，真牛逼!!
+abbrlink: 3088328217
+date: 2019-12-26 00:00:00
 ---
 ## Express
 [Express.js Wiki](https://zh.wikipedia.org/wiki/Express.js)

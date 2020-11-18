@@ -1,9 +1,12 @@
 ---
 title: Hexo 架站攻略 - SEO 優化
-date: 2019-09-06
-tags: Hexo
-categories: Hexo
+tags:
+  - Hexo
+categories:
+  - Hexo
 description: 本篇文章會記錄該如何進一步優化網站 SEO，優化方法有很多種，會陸續更新內容。
+abbrlink: 285599935
+date: 2019-09-06 00:00:00
 ---
 
 ## 前言

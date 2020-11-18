@@ -1,9 +1,12 @@
 ---
 title: webpack 架設 - 使用 SCSS 撰寫樣式
-date: 2019-09-11
-tags: webpack
-categories: webpack
+tags:
+  - Webpack
+categories:
+  - Webpack
 description: 在 webpack 加入 scss 插件
+abbrlink: 662263373
+date: 2019-09-11 00:00:00
 ---
 ## 前言
 相信各位小夥伴多少都會使用 CSS 預處理器在撰寫樣式，像是 SASS 、Stylus、LESS、PostCSS 等等，但使用這類工具都必須經過編譯過後產生真正的 CSS 檔案才能夠讓瀏覽器渲染，因為瀏覽器只看得懂 CSS ，本篇教大家如何在 webpack 中使用 SCSS 吧!!

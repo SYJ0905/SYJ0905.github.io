@@ -1,9 +1,12 @@
 ---
 title: Hexo 架站攻略 - NexT 相關設定
-date: 2019-09-02
-tags: Hexo
-categories: Hexo
+tags:
+  - Hexo
+categories:
+  - Hexo
 description: NexT 提供很多設定可以讓每位使用者依據個人喜好來做修改，建立專屬於你的個人配置。
+abbrlink: 2780600461
+date: 2019-09-02 00:00:00
 ---
 
 ## 前言

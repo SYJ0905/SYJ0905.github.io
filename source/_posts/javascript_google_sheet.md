@@ -1,12 +1,14 @@
 ---
 title: JavaScript - Google sheet 表單串接 API
-date: 2020-02-29
-tags: 
+tags:
   - JavaScript
   - Google App Script
   - w3HexSchool
-categories: JavaScript
+categories:
+  - JavaScript
 description: 本文將介紹如何使用 Google sheet 表單 API 來當我們的後端表單資料庫吧。
+abbrlink: 430374326
+date: 2020-02-29 00:00:00
 ---
 ## 前言
 `Google form` 表單服務應該是目前最多人拿來建立表單的一種方式，然而，有優點自然也有缺點，在表單中無法製作`相對複雜的內容`、`需外連到表單網頁`、`無法追蹤表單行為`、`無法使用 GA 轉換追蹤`，此問題 Google 也聽到了，開發出 API 服務，使得開發者可以透過此 API 來與 `Google sheet` 讀寫資料。

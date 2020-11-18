@@ -1,11 +1,13 @@
 ---
 title: JavaScript - 常見陣列方法(基礎篇)
-date: 2020-05-10
-tags: 
+tags:
   - JavaScript
   - w3HexSchool
-categories: JavaScript
+categories:
+  - JavaScript
 description: 本篇會介紹幾種比較常用的陣列方法，不再只是用迴圈加判定的方式來操作陣列，可以大幅的減少程式碼以及整體效能。
+abbrlink: 3218585467
+date: 2020-05-10 00:00:00
 ---
 ## 前言
 JavaScript 陣列方法有十幾種操作，我會依照使用次數以及難易程度分成三篇來介紹。

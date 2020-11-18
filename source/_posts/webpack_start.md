@@ -1,9 +1,12 @@
 ---
 title: webpack 架設 - 安裝 webpack
-date: 2019-09-10
-tags: webpack
-categories: webpack
+tags:
+  - Webpack
+categories:
+  - Webpack
 description: 一起來研究現今最火的前端打包工具吧!!
+abbrlink: 906767867
+date: 2019-09-10 00:00:00
 ---
 ## 前言
 webpack 是一個開源的前端打包工具。webpack 提供了前端開發缺乏的模組化開發方式，將各種靜態資源視為模組，並從它生成最佳化過的程式碼。(Wiki)

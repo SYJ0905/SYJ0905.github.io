@@ -1,9 +1,12 @@
 ---
-title: npm - 緩存指令
-date: 2019-09-09
-tags: npm
-categories: npm
+title: NPM - 緩存指令
+tags:
+  - NPM
+categories:
+  - NPM
 description: 編譯時出錯了嗎? 可能是你的緩存沒清呢!!
+abbrlink: 3597104584
+date: 2019-09-09 00:00:00
 ---
 
 ## 前言

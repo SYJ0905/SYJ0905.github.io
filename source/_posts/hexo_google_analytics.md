@@ -1,9 +1,12 @@
 ---
 title: Hexo 架站攻略 - 加入 GA 及 Sitemap
-date: 2019-09-05
-tags: Hexo
-categories: Hexo
+tags:
+  - Hexo
+categories:
+  - Hexo
 description: 為網站加入 GA 吧!!
+abbrlink: 2530705383
+date: 2019-09-05 00:00:00
 ---
 
 ## 前言

@@ -1,9 +1,12 @@
 ---
 title: webpack 架設 - 自動生成 html
-date: 2019-09-10
-tags: webpack
-categories: webpack
+tags:
+  - Webpack
+categories:
+  - Webpack
 description: 在 webpack 加入自動生成 html 的插件
+abbrlink: 3044919679
+date: 2019-09-10 00:00:00
 ---
 ## 前言
 在前一篇文章中，我們是手動新增 `index.html` 檔在 `dist` 資料夾內，確實是很不方便。本次的插件為 `html-webpack-plugin`，可以在打包後自動生成 html 檔。

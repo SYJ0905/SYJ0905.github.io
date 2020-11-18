@@ -1,11 +1,13 @@
 ---
 title: Git - 重新命名分支
-date: 2020-11-15
-tags: 
+tags:
   - Git
   - GitHub
-categories: Git
+categories:
+  - Git
 description: 本篇將介紹如何在不刪除分支情況下，重新命名分支名稱。
+abbrlink: 2627644797
+date: 2020-11-15 00:00:00
 ---
 ## 指令介紹
 * `git branch -m [old branch name] [new branch name]`

@@ -1,9 +1,12 @@
 ---
 title: Hexo 架站攻略 - 加入 Facebook 點讚與分享
-date: 2019-09-04
-tags: Hexo
-categories: Hexo
+tags:
+  - Hexo
+categories:
+  - Hexo
 description: 好文章就是要點讚與分享，怎麼可以少了這個功能呢?!!跟著我一起來加入 FB 的大拇指吧。
+abbrlink: 2088167264
+date: 2019-09-04 00:00:00
 ---
 
 ## 前言

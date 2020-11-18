@@ -1,9 +1,12 @@
 ---
 title: Hexo 架站攻略 - 建立與部署
-date: 2019-09-01
-tags: Hexo
-categories: Hexo
+tags:
+  - Hexo
+categories:
+  - Hexo
 description: 為了避免其他架站教學的文章遺失，乾脆就自己架站紀錄一下，順便來跟各位小夥伴說明會遇到那些意想不到的坑喔!!
+abbrlink: 2738918637
+date: 2019-09-01 00:00:00
 ---
 
 ## 前言

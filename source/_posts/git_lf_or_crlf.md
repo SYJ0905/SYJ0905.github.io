@@ -1,9 +1,12 @@
 ---
 title: Git 多平台換行符問題
-date: 2019-09-09
-tags: Git
-categories: Git
+tags:
+  - Git
+categories:
+  - Git
 description: 到底該用 LF 還是 CRLF 呢?
+abbrlink: 4060533944
+date: 2019-09-09 00:00:00
 ---
 
 ## 前言

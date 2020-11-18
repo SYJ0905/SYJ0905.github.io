@@ -1,11 +1,13 @@
 ---
-title: Node.js - 模組開發 module exports 
-date: 2019-12-25
-tags: 
-  - Node.js
+title: Node.js - 模組開發 module exports
+tags:
+  - Nodejs
   - JavaScript
-categories: Node.js
+categories:
+  - Nodejs
 description: 學習模組化開發，有利於程式開發。
+abbrlink: 809670029
+date: 2019-12-25 00:00:00
 ---
 ## module.exports 、 require
 創建一個資料夾，分別建立 `app.js`、`data.js` 

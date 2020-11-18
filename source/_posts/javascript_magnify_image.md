@@ -1,11 +1,13 @@
 ---
 title: JavaScript - 圖片放大鏡效果
-date: 2020-05-17
-tags: 
+tags:
   - JavaScript
   - w3HexSchool
-categories: JavaScript
+categories:
+  - JavaScript
 description: 透過原生 JavaScript 或是各種函式庫實作圖片放大鏡效果。
+abbrlink: 756442948
+date: 2020-05-17 00:00:00
 ---
 ## 前言
 在網頁上逛購物平台時，會遇到這樣一種網頁特效：當滑鼠移到一張商品縮圖上時，旁邊就會顯示該商品局部放大的圖片。這就是所謂的放大鏡特效。本次會介紹如何使用`原生 JavaScript` 以及其他函式庫完成此效果。

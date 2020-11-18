@@ -1,13 +1,15 @@
 ---
 title: Cookie、LocalStorage、SessionStorage 差異
-date: 2019-11-12
-tags: 
+tags:
   - HTML
   - Cookie
   - LocalStorage
   - SessionStorage
-categories: HTML
+categories:
+  - HTML
 description: 本篇會說明三個 HTML 所提供的儲存庫差異以及相關應用。
+abbrlink: 861460379
+date: 2019-11-12 00:00:00
 ---
 ## Cookie
 為伺服器傳送給使用者瀏覽器的一個小片段資料。瀏覽器可能儲存並在下一次請求回傳 cookie 至相同的伺服器。Cookie 通常被用來保持使用者的登入狀態，一般不能超過 20 個。

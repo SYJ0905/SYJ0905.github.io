@@ -1,11 +1,13 @@
 ---
 title: Google Analytics - GA分析無法做到的事
-date: 2020-04-12
-tags: 
-  - Google Analytics
+tags:
+  - Analytics
   - w3HexSchool
-categories: GA
+categories:
+  - Analytics
 description: 來介紹一下 Google Analytics 無法分析的事
+abbrlink: 3846114323
+date: 2020-04-12 00:00:00
 ---
 ## GA 未提供以下功能
  * 無法永久刪除報表內資料，只能透過篩選條件來過濾資料。

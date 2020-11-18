@@ -1,11 +1,13 @@
 ---
 title: Nuxt 加入 JSON-LD 結構化資料
-date: 2019-10-24
-tags: 
-  - nuxt
-  - seo
-categories: nuxt
+tags:
+  - Vue
+  - SEO
+categories:
+  - Vue
 description: 加入 JSON-LD 讓電腦更看懂你的網站資訊吧!!
+abbrlink: 2360505463
+date: 2019-10-24 00:00:00
 ---
 ## 前言
 一切都是為了站上搜尋排行榜的龍頭，反正 SEO 的前言已經懶的想了@@

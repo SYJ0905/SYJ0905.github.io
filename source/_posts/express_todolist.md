@@ -1,13 +1,15 @@
 ---
 title: Express.js - 搭配 Firebase 實做 TodoList 代辦清單
-date: 2020-01-02
-tags: 
+tags:
   - Express
-  - Node.js
+  - Nodejs
   - JavaScript
   - Firebase
-categories: Express.js
+categories:
+  - Nodejs
 description: 運用 Express 後端接收資料，並搭配 Firebase 資料庫，來完成一個超簡易的代辦清單吧!!
+abbrlink: 3010815534
+date: 2020-01-02 00:00:00
 ---
 ## 專案建立
 首先直接輸入 `express --view=ejs` 快速產生資料夾結構

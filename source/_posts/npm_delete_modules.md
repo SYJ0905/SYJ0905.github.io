@@ -1,9 +1,12 @@
 ---
 title: 刪除 node_modules
-date: 2019-09-09
-tags: npm
-categories: npm
+tags:
+  - NPM
+categories:
+  - NPM
 description: 快速刪除 node_modules 資料
+abbrlink: 3654937943
+date: 2019-09-09 00:00:00
 ---
 ## 前言
 會想刪除 node_modules 的情況有很多種，有時單純是強迫症發作(我)，在部屬之前一定會清乾淨重裝。但總是為了刪除資料而費了不少時間，本篇就來教大家該怎麼一個指令刪除 node_modules 。

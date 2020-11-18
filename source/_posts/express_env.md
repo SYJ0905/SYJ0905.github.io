@@ -1,12 +1,14 @@
 ---
 title: Express.js - env 環境變數
-date: 2020-01-07
-tags: 
+tags:
   - Express
-  - Node.js
+  - Nodejs
   - JavaScript
-categories: Express.js
+categories:
+  - Nodejs
 description: 將網站中的機密資料都使用環境變數來取代吧!
+abbrlink: 3250754690
+date: 2020-01-07 00:00:00
 ---
 ## 前言
 前章節在使用 Google OAuth2.0 時有使用到 ID、金鑰以及 Token，這些資料雖然是寫在後端程式碼中，但在版控時還是要避免顯示。所以我們會新建一個環境變數檔，將往ˇ站的變數都放在此處，並且不會加入版控。到部屬到服務器時(ex:heroku)會有設定可以加入環境變數。

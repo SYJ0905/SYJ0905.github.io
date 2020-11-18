@@ -1,11 +1,13 @@
 ---
 title: Firebase - 基礎介紹
-date: 2019-12-25
-tags: 
+tags:
   - Firebase
   - JavaScript
-categories: Firebase
+categories:
+  - Firebase
 description: 本篇將介紹如何使用 Firebase 讀寫資料庫內容。
+abbrlink: 2037953785
+date: 2019-12-25 00:00:00
 ---
 ## 基本環境建立
 首先請到 Firebase 建立一份新的專案，並依照下圖紅色箭頭新建一個網路應用程式。

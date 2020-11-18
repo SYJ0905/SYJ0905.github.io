@@ -1,12 +1,14 @@
 ---
 title: JavaScript - 瀏覽器中常見的高度介紹
-date: 2020-02-23
-tags: 
+tags:
   - JavaScript
   - HTML
   - w3HexSchool
-categories: JavaScript
+categories:
+  - JavaScript
 description: 避免每次都忘記高度設定，就來記錄一下瀏覽器中的常見高度吧。
+abbrlink: 1272962849
+date: 2020-02-23 00:00:00
 ---
 ## 名詞解釋
 * window.outerHeight

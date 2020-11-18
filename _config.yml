@@ -6,7 +6,7 @@
 title: Cloud F2E Blog # 網站標題
 subtitle: 前端開發紀錄 # 網站副標題
 description: Front End Engineer # 網站敘述
-keywords: # 關鍵字
+keywords: 前端,後端,全端,網頁,技術,網頁開發,前端開發,後端開發,JavaScript,HTML,CSS,SCSS # 關鍵字
 author: Cloud # 網站作者
 language: zh-TW # 網站語系
 timezone:
@@ -15,7 +15,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://syj0905.github.io # 網址
 root: /
-permalink: :category/:year:month:day/:title/
+permalink: :category/:year:month:day/:abbrlink/
 permalink_defaults:
 
 # Directory
@@ -56,6 +56,23 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  Analytics: analytics
+  Axios: axios
+  CSS: css
+  Firebase: firebase
+  Git: git
+  Gulp: gulp
+  HTML: html
+  Hexo: hexo
+  JavaScript: javascript
+  Nodejs: nodejs
+  NPM: npm
+  PWA: pwa
+  SCSS: scss
+  VSCode: vscode
+  Vue: vue
+  Webpack: webpack
+  學習經驗: learnexp
 tag_map:
 
 # Date / Time format
@@ -117,6 +134,11 @@ nofollow:
 	enable: true
 	exclude:
     - https://hsiangfeng.github.io
+
+# abbrlink config
+abbrlink:
+  alg: crc32  # 演算法：crc16(default) and crc32 
+  rep: dec    # 進位制：dec(default) and hex
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

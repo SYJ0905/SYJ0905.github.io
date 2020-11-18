@@ -1,10 +1,12 @@
 ---
 title: CSS - span 和 p 標籤的換行或者不換行問題
-date: 2020-10-11
-tags: 
+tags:
   - CSS
-categories: CSS
+categories:
+  - CSS
 description: 本篇將介紹各種換行相關元素以及中英文換行時所發生的問題。
+abbrlink: 1571711147
+date: 2020-10-11 00:00:00
 ---
 ## 相關參數介紹
 ### word-break

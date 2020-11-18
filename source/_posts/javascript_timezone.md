@@ -1,9 +1,12 @@
 ---
 title: JavaScript - 取得各國日期與時間
-date: 2019-12-02
-tags: JavaScript
-categories: JavaScript
+tags:
+  - JavaScript
+categories:
+  - JavaScript
 description: 使用原生 JS 取得各國時間製作相關應用
+abbrlink: 3751349744
+date: 2019-12-02 00:00:00
 ---
 ## 取得本地日期與時間
 * `Date.prototype.toLocaleString()` : 取得本地的日期與時間

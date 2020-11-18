@@ -1,10 +1,12 @@
 ---
 title: Vue - v-for 常見錯誤
-date: 2020-10-25
-tags: 
+tags:
   - Vue
-categories: Vue
+categories:
+  - Vue
 description: 本篇將介紹使用 v-for 語法時所需要注意的細節，避免出現錯誤渲染。
+abbrlink: 1105567443
+date: 2020-10-25 00:00:00
 ---
 ## 常見錯誤 1: Uncaught RangeError: Invalid array length
   ### 出現時機

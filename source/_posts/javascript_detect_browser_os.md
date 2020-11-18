@@ -1,11 +1,13 @@
 ---
 title: JavaScript - 判斷瀏覽器版本及作業系統
-date: 2020-02-03
-tags: 
+tags:
   - JavaScript
   - w3HexSchool
-categories: JavaScript
+categories:
+  - JavaScript
 description: 先前已撰寫過如何判斷 IE 用戶以及使用者裝置等文章，本篇將介紹更詳細的判斷瀏覽器及作業系統。
+abbrlink: 4265752958
+date: 2020-02-03 00:00:00
 ---
 ## 前言
 前些日子，公司的購物網發現有少許用戶會重複在短時間內 call 相同的 API，為了抓出這些錯誤的來源，只用判定裝置已經是不夠了，必須還要知道使用者的瀏覽器是哪一款、版本號、以及作業系統，這樣後端接收到數據後就知道是哪邊出問題了。

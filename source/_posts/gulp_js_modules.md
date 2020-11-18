@@ -1,12 +1,14 @@
 ---
 title: Gulp - 使用 Browserify 解決 JavaScript 模塊化問題
-date: 2020-04-05
-tags: 
+tags:
   - Gulp
   - JavaScript
   - w3HexSchool
-categories: Gulp
+categories:
+  - Git
 description: 本文將介紹如何在 Gulp 中使用 ES6 的 import export 功能。
+abbrlink: 2647002883
+date: 2020-04-05 00:00:00
 ---
 ## 前言
 相信各位使用 `Gulp` 時都會搭配 `gulp-concat` 合併檔案，但如果是 `JS` 要 `import` 其他檔案(ex: JS、JSON) 就不能用 `gulp-concat`　合併而已，因為這樣會在使用的時候，出現　xxx(import 進來的變數宣告) is not defined。

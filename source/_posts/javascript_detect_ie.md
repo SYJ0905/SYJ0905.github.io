@@ -1,9 +1,12 @@
 ---
 title: JavaScript - 判斷是否為ie瀏覽器的方法(含 IE 11)
-date: 2019-11-19
-tags: JavaScript
-categories: JavaScript
+tags:
+  - JavaScript
+categories:
+  - JavaScript
 description: 萬惡的 IE ，想不到之前 IE 10 以前的寫法已經不支援 IE11 了!!那就來更新一下最新的 IE 判斷法吧。
+abbrlink: 2879272524
+date: 2019-11-19 00:00:00
 ---
 ## 前言
 原先 IE10 以前都是採用 `userAgent` 中的 `MSIE` 標誌來識別，但到了 IE11 卻把它給移除了QQ。當然也是有方法可以判斷的，並且還同時兼顧 IE6 以上呦!!

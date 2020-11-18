@@ -1,12 +1,14 @@
 ---
 title: Express.js - 路由 Route 介紹
-date: 2019-12-26
-tags: 
+tags:
   - Express
-  - Node.js
+  - Nodejs
   - JavaScript
-categories: Express.js
+categories:
+  - Nodejs
 description: 使用 Express 自定網站路由以及參數。
+abbrlink: 1852101665
+date: 2019-12-26 00:00:00
 ---
 ## 網址組成
 首先要介紹網址的組成，這裡選擇 Google 搜尋 `express` 當例子。

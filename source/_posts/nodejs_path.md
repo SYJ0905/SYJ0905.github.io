@@ -1,11 +1,13 @@
 ---
 title: Node.js - Path 模組應用
-date: 2019-12-25
-tags: 
-  - Node.js
+tags:
+  - Nodejs
   - JavaScript
-categories: Node.js
+categories:
+  - Nodejs
 description: 使用 Path 模組來取得並操作路徑
+abbrlink: 2257922785
+date: 2019-12-25 00:00:00
 ---
 ## 前言
 由於模組化的關係，引入時必須指定路徑才能正確抓到相關檔案，這時 `Path` 模組提供了一些方法給我們使用，以下就來介紹幾種路徑使用方法吧!

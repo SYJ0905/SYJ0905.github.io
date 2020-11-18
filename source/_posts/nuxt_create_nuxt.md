@@ -1,9 +1,12 @@
 ---
 title: 建立 Nuxt 專案
-date: 2019-09-16
-tags: nuxt
-categories: nuxt
+tags:
+  - Vue
+categories:
+  - Vue
 description: 當 SPA 需要有 SEO 時， Nuxt 是你的好選擇!!
+abbrlink: 3554098363
+date: 2019-09-16 00:00:00
 ---
 ## 前言
 原先使用 Vue-cli 開發的 SPA 網站會因為內容都是由 JS 動態生成，所以對於爬蟲、搜尋引擎而言都是找不到資料的。就如下圖所見，連個 `title` 都不會有，是要怎麼讓搜尋引擎爬呢?

@@ -1,11 +1,13 @@
 ---
 title: JavaScript - 拖曳功能(一) - 拖曳
-date: 2019-12-09
-tags: 
-  - HTML5
+tags:
+  - HTML
   - JavaScript
-categories: JavaScript
+categories:
+  - JavaScript
 description: 在 HTML5 中使用 Drag & Drop API，在瀏覽器中做到拖曳、排序元素等功能。
+abbrlink: 2561588379
+date: 2019-12-09 00:00:00
 ---
 ## 名詞解釋
 * `Drag Source` : 被點擊要拖曳的物件

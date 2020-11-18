@@ -1,11 +1,13 @@
 ---
 title: JavaScript - round()、floor()、ceil() 詳細介紹
-date: 2020-05-03
-tags: 
+tags:
   - JavaScript
   - w3HexSchool
-categories: JavaScript
+categories:
+  - JavaScript
 description: 本篇將介紹 round()、floor()、ceil() 三種常見的小數值捨入為整數的方法
+abbrlink: 3859167508
+date: 2020-05-03 00:00:00
 ---
 ## 目標對象
 參數型別可以是 `number`、`string` 的數字

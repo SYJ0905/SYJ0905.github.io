@@ -1,12 +1,14 @@
 ---
 title: Express.js - 加入 favicon
-date: 2020-01-10
-tags: 
+tags:
   - Express
-  - Node.js
+  - Nodejs
   - JavaScript
-categories: Express.js
+categories:
+  - Nodejs
 description: 除了在 ejs 直接引入外，還能透過後端 middleware 的方式加入 favicon 呦!!
+abbrlink: 3431640210
+date: 2020-01-10 00:00:00
 ---
 ## 安裝套件 
 套件名稱: serve-favicon

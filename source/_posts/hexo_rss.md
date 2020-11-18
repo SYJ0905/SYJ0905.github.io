@@ -1,9 +1,12 @@
 ---
 title: Hexo 架站攻略 - 加入 RSS 通知
-date: 2019-09-05
-tags: Hexo
-categories: Hexo
+tags:
+  - Hexo
+categories:
+  - Hexo
 description: 讓訂閱者第一時間收到通知吧!!
+abbrlink: 3148275584
+date: 2019-09-05 00:00:00
 ---
 ## 前言
 RSS（簡易資訊聚合）是一種訊息來源格式規範，用以聚合經常發布更新資料的網站。訂閱 RSS 意味著當網站更新時，方便用戶獲取最新內容，可以時時關注最新文章。

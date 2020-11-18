@@ -1,11 +1,13 @@
 ---
-title: Git Flow 與 Commit 團隊協作規範 
-date: 2020-11-04
-tags: 
+title: Git Flow 與 Commit 團隊協作規範
+tags:
   - Git
   - Git Flow
-categories: Git
+categories:
+  - Git
 description: 本篇將介紹在團隊協作時該如何使用 Git Flow 的分支概念，並且搭配有規範的 Commit 說明，如此將有效的管理專案版控。
+abbrlink: 138987188
+date: 2020-11-04 00:00:00
 ---
 ## Git Flow
 於 2010 年提出的[`開發流程觀念`](https://nvie.com/posts/a-successful-git-branching-model/)，往後還有其他諸如 `GitHub Flow`、`Gitlab Flow`，而這些流程的最終目的都是 `讓專案變得更好維護管理`

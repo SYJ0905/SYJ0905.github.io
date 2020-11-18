@@ -1,12 +1,14 @@
 ---
 title: Express.js - 取得表單內容及轉址
-date: 2019-12-27
-tags: 
+tags:
   - Express
-  - Node.js
+  - Nodejs
   - JavaScript
-categories: Express.js
+categories:
+  - Nodejs
 description: 身為一個前端是絕對要掌握表單的傳送機制，本篇會介紹如何在前端送出表單並使用 Express 接收資料並導入正確路徑。
+abbrlink: 1299330094
+date: 2019-12-27 00:00:00
 ---
 ## 安裝套件
 我們使用的是 `body-parser` 的套件，以下附上官方 github 及 npm 連結

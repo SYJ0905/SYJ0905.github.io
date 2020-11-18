@@ -1,11 +1,13 @@
 ---
 title: Nuxt 加入 robots
-date: 2019-10-24
-tags: 
-  - nuxt
-  - seo
-categories: nuxt
+tags:
+  - Vue
+  - SEO
+categories:
+  - Vue
 description: robots 限制爬蟲搜尋頁面
+abbrlink: 2898339199
+date: 2019-10-24 00:00:00
 ---
 ## 前言
 robots.txt 是遵循機器人排除標準的純文字檔案，這個檔案包含一或多項規則，每項規則會分別禁止 (或允許) 特定檢索器存取網站中的某個檔案路徑。

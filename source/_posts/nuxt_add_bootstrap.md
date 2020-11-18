@@ -1,9 +1,12 @@
 ---
 title: Nuxt 中加入 Bootstrap
-date: 2019-09-16
-tags: nuxt
-categories: nuxt
+tags:
+  - Vue
+categories:
+  - Vue
 description: 來記錄一下該如何在 Nuxt 中加入 Bootstrap
+abbrlink: 2513304124
+date: 2019-09-16 00:00:00
 ---
 ## 前言
 與 `Vue-cli` 加入 BS 稍有不同，由於 `Nuxt` 本身是沒有所謂的 `App.vue` 當作進入點，所以會在 `nuxt.config.js` 做些設定。

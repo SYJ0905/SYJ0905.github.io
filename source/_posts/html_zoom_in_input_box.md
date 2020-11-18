@@ -1,10 +1,12 @@
 ---
 title: HTML - 解決點擊輸入框時，畫面放大情況
-date: 2020-10-01
-tags: 
+tags:
   - HTML
-categories: HTML
+categories:
+  - HTML
 description: 當使用行動裝置(iPhone、iPad)瀏覽網頁時，在預設的情況之下，點擊文字輸入框後，畫面會立即放大。如果不想要這個畫面放大的效果該怎麼做呢？
+abbrlink: 2564304135
+date: 2020-10-01 00:00:00
 ---
 ## meta tag 方法
 在`<head>`輸入以下設定，會讓裝置的縮放功能給禁止，可謂相當暴力的解法之一。

@@ -1,11 +1,13 @@
 ---
 title: JavaScript - slice()、splice()、split() 詳細介紹
-date: 2020-03-22
-tags: 
+tags:
   - JavaScript
   - w3HexSchool
-categories: JavaScript
+categories:
+  - JavaScript
 description: 本篇將介紹 slice()、splice()、split() 三種常見的 Array、String 處理方法。
+abbrlink: 4152837228
+date: 2020-03-22 00:00:00
 ---
 ## 目標對象
 * slice(): `Array` 及 `String`

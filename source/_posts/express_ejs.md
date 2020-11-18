@@ -1,12 +1,14 @@
 ---
 title: Express.js - EJS template
-date: 2019-12-27
-tags: 
+tags:
   - Express
-  - Node.js
+  - Nodejs
   - JavaScript
-categories: Express.js
+categories:
+  - Nodejs
 description: 使用 template 模版語言不但提高了可維護性還降低程式碼重複性呢!!
+abbrlink: 3824472555
+date: 2019-12-27 00:00:00
 ---
 ## 前言
 以前在撰寫 HTML 檔時是不是每支檔案都必須要有 `!DOCTYPE html`、`head`、`header`、`footer` 等標籤，而當網站頁數一多起來，在維護上就變得不容易了。

@@ -1,12 +1,14 @@
 ---
 title: Express.js - CSRF 驗證機制
-date: 2020-01-06
-tags: 
+tags:
   - Express
-  - Node.js
+  - Nodejs
   - JavaScript
-categories: Express.js
+categories:
+  - Nodejs
 description: 使用 CSRF 驗證讓網站不會受到攻擊吧!!
+abbrlink: 2486447807
+date: 2020-01-06 00:00:00
 ---
 ## 前言
 根據上一篇 `Express.js - Gmail 發送信件實作 + OAuth 2.0` 做的寄信程式，只要知道 POST 位址就能使用 postman 填入相關參數並讓該應用程式寄信。

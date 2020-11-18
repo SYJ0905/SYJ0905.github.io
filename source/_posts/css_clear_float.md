@@ -1,9 +1,12 @@
 ---
-title: 什麼!! overflow:hidden 清除浮動
-date: 2019-11-06
-tags: CSS
-categories: CSS
-description: 想不到清除浮動除了 clearboth 以外，還有 overflow:hidden !!
+title: '什麼!! overflow:hidden 清除浮動'
+tags:
+  - CSS
+categories:
+  - CSS
+description: '想不到清除浮動除了 clearboth 以外，還有 overflow:hidden !!'
+abbrlink: 1889954039
+date: 2019-11-06 00:00:00
 ---
 ## 前言
 `overflow: hidden` 常用在隱藏溢出的範圍，也就是子層高度大於複層高度時會將超出部分隱藏。

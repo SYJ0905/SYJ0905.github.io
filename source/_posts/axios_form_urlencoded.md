@@ -1,12 +1,14 @@
 ---
 title: axios - 解決 x-www-form-urlencoded 傳輸格式問題
-date: 2020-03-08
-tags: 
+tags:
   - JavaScript
   - axios
   - w3HexSchool
-categories: axios
+categories:
+  - Axios
 description: 有些 API 是要使用 form-urlencoded 的格式傳輸資料，但 axios 所傳輸的是 json 格式，本篇將解說該如何轉換兩種格式。
+abbrlink: 2321882403
+date: 2020-03-08 00:00:00
 ---
 ## 前言
 原先跟公司後端搭配都是使用 `JSON` 格式在傳遞資料，直到有一支 `API` 跟 `Google OAuth` 牽扯上。總而言之，就是要使用 `form-urlencoded` 來傳資料，也就會產生 `axios` 格式轉換問題哩。

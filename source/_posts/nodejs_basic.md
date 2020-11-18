@@ -1,11 +1,13 @@
 ---
 title: Node.js - 基礎介紹
-date: 2019-12-25
-tags: 
-  - Node.js
+tags:
+  - Nodejs
   - JavaScript
-categories: Node.js
+categories:
+  - Nodejs
 description: 介紹 Node.js 基礎
+abbrlink: 3849868532
+date: 2019-12-25 00:00:00
 ---
 ## Node.js 是什麼 ?
 [Node.js wiki](https://zh.wikipedia.org/wiki/Node.js)

@@ -1,12 +1,14 @@
 ---
 title: JavaScript - 解決網站 HSTS 問題
-date: 2020-03-28
-tags: 
+tags:
   - JavaScript
   - w3HexSchool
   - HTTP
-categories: JavaScript
+categories:
+  - JavaScript
 description: 本將介紹如何將網站強制使用 HTTPS 傳遞機制，避免網站被惡意人士攻擊，竊取用戶資料。
+abbrlink: 2180666016
+date: 2020-03-28 00:00:00
 ---
 ## 前言
 不知道各位將自己的網站部屬到某些主機後，使用 `http` 依舊可以開啟而不會自動轉址到 `https` 呢?

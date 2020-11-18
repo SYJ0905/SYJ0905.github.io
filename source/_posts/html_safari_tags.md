@@ -1,9 +1,12 @@
 ---
 title: HTML - Mobile Safari Meta Tags
-date: 2019-12-19
-tags: HTML
-categories: HTML
+tags:
+  - HTML
+categories:
+  - HTML
 description: 善用 Safari Meta Tags ，可讓 iphone 在瀏覽網站時有更多變化。一起學習有哪些 Meta Tags 吧!!
+abbrlink: 4131003289
+date: 2019-12-19 00:00:00
 ---
 ## Apple 特有的 Meta Tag Keys
 * apple-mobile-web-app-capable

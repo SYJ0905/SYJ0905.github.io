@@ -1,12 +1,14 @@
 ---
 title: axios - 管理 API
-date: 2020-03-15
-tags: 
+tags:
   - axios
   - JavaScript
   - w3HexSchool
-categories: axios
-description: 本篇將介紹該如何將專案內的 API 統一管理，並根據元件引入特定 API 來做使用，大大提高程式碼的可讀性跟維護性。 
+categories:
+  - Axios
+description: 本篇將介紹該如何將專案內的 API 統一管理，並根據元件引入特定 API 來做使用，大大提高程式碼的可讀性跟維護性。
+abbrlink: 611398329
+date: 2020-03-15 00:00:00
 ---
 ## 前言
 不知道大家有沒有遇過 `API` 已經設定好了，某天被告知 `domain` 有調整過，或是某些 `get`、`post`方法需要多加參數等設定，導致必須不斷地找專案內 `call API` 的地方，有時還會遺漏幾處產生嚴重問題呢。以下教各位如何高效率的管理專案內的 `API`，即便是小專案也該如此。

@@ -1,12 +1,14 @@
 ---
 title: Express.js - middleware
-date: 2019-12-26
-tags: 
+tags:
   - Express
-  - Node.js
+  - Nodejs
   - JavaScript
-categories: Express.js
-description: 以為輸入網址就能隨便進入任何網頁嗎?有了 middleware 就能夠阻擋較為隱私的網頁不讓使用者輕鬆輸入網址進入呦!! 
+categories:
+  - Nodejs
+description: 以為輸入網址就能隨便進入任何網頁嗎?有了 middleware 就能夠阻擋較為隱私的網頁不讓使用者輕鬆輸入網址進入呦!!
+abbrlink: 2878403792
+date: 2019-12-26 00:00:00
 ---
 ## 前言
 舉凡電商網站、CMS後台管理系統等含有個人隱私資料或會員系統這類的網站就會需要在特定的隱私頁面做使用者驗證，避免其他人透過任何手法取得網址就直接進入個人頁面竄改資料等行為

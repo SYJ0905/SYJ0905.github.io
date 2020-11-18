@@ -1,11 +1,13 @@
 ---
 title: Node.js - 開啟 Web Server
-date: 2019-12-25
-tags: 
-  - Node.js
+tags:
+  - Nodejs
   - JavaScript
-categories: Node.js
+categories:
+  - Nodejs
 description: 使用 Nodo.js 內建模組來建立一個 Web Server 吧!
+abbrlink: 3369199661
+date: 2019-12-25 00:00:00
 ---
 ## 創建一個 Web Server
 1. 建立專案資料夾與 `all.js`
