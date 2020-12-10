@@ -66,6 +66,7 @@ category_map:
   HTML: html
   Hexo: hexo
   JavaScript: javascript
+  jQuery: jQuery
   Nodejs: nodejs
   NPM: npm
   PWA: pwa
