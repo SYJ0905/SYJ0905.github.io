@@ -7,7 +7,7 @@ categories:
   - JavaScript
 abbrlink: 2401760990
 date: 2020-12-23 18:00:00
-description:
+description: 運算子的兩大特性，優先性及相依性
 ---
 ## 優先性 Precedence
 
