@@ -24,10 +24,10 @@ console.log(family, family.name); /* {name: "Cloud"} "Cloud" */
 /* 純值 */
 var num = 'Cloud';
 num.age = 26;
-console.log(num, num.test); /* Cloud undefined */
+console.log(num, num.age); /* Cloud undefined */
 ```
 
-可以看到 `num.test` 是 `undefined`。
+可以看到 `num.age` 是 `undefined`。
 
 ## 繼承原始物件型別
 
