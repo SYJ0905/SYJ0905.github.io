@@ -23,7 +23,7 @@ console.log(a, b); /* Cloud, Test */
 
 由此可知，`a、b兩者互不相干`。
 
-## 物件傳參考 Call by reference
+## 物件傳參考 Call by sharing
 
 接下來用物件試試，看與上面有何差異吧。
 
