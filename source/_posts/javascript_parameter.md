@@ -6,6 +6,7 @@ tags:
 categories:
   - JavaScript
 description: 參數與函式息息相關，有效運用可大幅提升程式效率
+abbrlink: 1031579702
 date: 2021-01-06 10:00:00
 ---
 ## 參數
