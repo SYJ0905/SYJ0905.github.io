@@ -1,5 +1,5 @@
 ---
-title: JavaScript 核心 (26) - 物件 - 陣列
+title: JavaScript 核心 (27) - 物件 - 陣列
 tags:
   - JavaScript
   - JavaScript 核心篇

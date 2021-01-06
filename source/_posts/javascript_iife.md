@@ -1,5 +1,5 @@
 ---
-title: JavaScript 核心 (29) - 函式以及 This 的運作 - 立即函式
+title: JavaScript 核心 (30) - 函式以及 This 的運作 - 立即函式
 tags:
   - JavaScript
   - JavaScript 核心篇

@@ -1,5 +1,5 @@
 ---
-title: JavaScript 核心 (30) - 函式以及 This 的運作 - 閉包 Closure
+title: JavaScript 核心 (32) - 函式以及 This 的運作 - 閉包 Closure
 tags:
   - JavaScript
   - JavaScript 核心篇

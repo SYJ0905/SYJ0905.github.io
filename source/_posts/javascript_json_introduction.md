@@ -1,5 +1,5 @@
 ---
-title: JavaScript 核心 (27) - 物件 - JSON
+title: JavaScript 核心 (28) - 物件 - JSON
 tags:
   - JavaScript
   - JavaScript 核心篇

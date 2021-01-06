@@ -1,5 +1,5 @@
 ---
-title: JavaScript 核心 (25) - 物件 - 淺層複製及深層複製
+title: JavaScript 核心 (26) - 物件 - 淺層複製及深層複製
 tags:
   - JavaScript
   - JavaScript 核心篇

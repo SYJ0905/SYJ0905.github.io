@@ -1,5 +1,5 @@
 ---
-title: JavaScript 核心 (22) - 物件 - 未定義的物件屬性預設值
+title: JavaScript 核心 (23) - 物件 - 未定義的物件屬性預設值
 tags:
   - JavaScript
   - JavaScript 核心篇

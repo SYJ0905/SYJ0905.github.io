@@ -1,5 +1,5 @@
 ---
-title: JavaScript 核心 (24) - 物件 - Call by Reference 還是 Call by Sharing
+title: JavaScript 核心 (25) - 物件 - Call by Reference 還是 Call by Sharing
 tags:
   - JavaScript
   - JavaScript 核心篇

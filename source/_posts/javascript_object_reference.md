@@ -1,5 +1,5 @@
 ---
-title: JavaScript 核心 (23) - 物件 - 物件的參考特性
+title: JavaScript 核心 (24) - 物件 - 物件的參考特性
 tags:
   - JavaScript
   - JavaScript 核心篇

@@ -1,5 +1,5 @@
 ---
-title: JavaScript 核心 (29) - 函式以及 This 的運作 - 參數
+title: JavaScript 核心 (31) - 函式以及 This 的運作 - 參數
 tags:
   - JavaScript
   - JavaScript 核心篇
