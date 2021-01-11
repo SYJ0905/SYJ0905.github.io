@@ -1,5 +1,5 @@
 ---
-title: 'JavaScript 核心 (36) - 函式以及 This 的運作 - this：call, apply, bind 與 嚴謹模式'
+title: JavaScript 核心 (36) - 函式以及 This 的運作 - this：call, apply, bind 與 嚴謹模式
 tags:
   - JavaScript
   - JavaScript 核心篇
