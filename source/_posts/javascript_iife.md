@@ -24,11 +24,11 @@ date: 2021-01-04 18:30:00
 (function IIFE_2() {
   console.log('具名、括號在外');
 })();
-(function IIFE_3() {
-  console.log('匿名、括號在內');
+(function() {
+  console.log('IIFE_3 匿名、括號在內');
 }());
-(function IIFE_4() {
-  console.log('匿名、括號在外');
+(function() {
+  console.log('IIFE_4 匿名、括號在外');
 })();
 ```
 
