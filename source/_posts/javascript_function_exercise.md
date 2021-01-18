@@ -9,7 +9,7 @@ description: 一起來分析函式的常見陷阱題
 abbrlink: 180950825
 date: 2021-01-18 12:00:00
 ---
-##　第一題
+## 第一題
 
 ``` JavaScript
 var myName = '全域';
