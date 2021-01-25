@@ -20,6 +20,8 @@ function Dog(name, color, size) {
   this.name = name;
   this.color = color;
   this.size = size;
+  /* 沒有 return 物件的話，會默認 return this */
+  // return this;
 }
 
 var Bibi = new Dog('比比', '棕色', '小');
