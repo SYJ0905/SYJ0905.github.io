@@ -1,5 +1,5 @@
 ---
-title: 'JavaScript 核心 (50) - ES6 章節：Let 及 Const - Let, Const 基本概念'
+title: JavaScript 核心 (50) - ES6 章節：Let 及 Const - Let, Const 基本概念
 tags:
   - JavaScript
   - JavaScript 核心篇
