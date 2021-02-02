@@ -1,5 +1,5 @@
 ---
-title: 'JavaScript 核心 (51) - ES6 章節：Let 及 Const - Let, Const 實戰運用技巧'
+title: JavaScript 核心 (51) - ES6 章節：Let 及 Const - Let, Const 實戰運用技巧
 tags:
   - JavaScript
   - JavaScript 核心篇
