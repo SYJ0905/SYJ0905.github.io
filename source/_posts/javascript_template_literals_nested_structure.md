@@ -59,7 +59,7 @@ console.log('list_string =>', list_string);
 
 /* 由於 map() 本身回傳的仍是陣列，所以會有 "逗號" 產生， 這時就得使用 .join() 來轉成字串值 */
 const list_string_finish = `<ul>
-    ${ people.map((person) => `<li>我是${ person.name }，身上有 ${ person.cash } 元</li>`).join('')}
+    ${ people.map((person) => `<li>我是${ person.name }，身上有 ${ person.cash } 元</li>`).join('') }
   </ul>
 `
 console.log('list_string =>', list_string_finish);
