@@ -1,12 +1,13 @@
 ---
 title: JavaScript - 使用 jQuery 來產生 QR CODE
-date: 2021-03-14 00:45:00
 tags:
   - JavaScript
   - jQuery
 categories:
   - JavaScript
 description: 本篇來介紹純前端生成 QR CODE 的方式
+abbrlink: 3805875564
+date: 2021-03-14 00:45:00
 ---
 ## jQuery.qrcode 介紹
 
