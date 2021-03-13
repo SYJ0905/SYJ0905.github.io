@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Sitemap: https://syj0905.github.io/sitemap.xml

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cloud F2E Blog</title>
+  <icon>https://syj0905.github.io/icon.png</icon>
+  <subtitle>前端開發紀錄</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://syj0905.github.io/"/>
+  <updated>2021-03-13T16:41:33.635Z</updated>
+  <id>https://syj0905.github.io/</id>
+  
+  <author>
+    <name>Cloud</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript - 使用 jQuery 來產生 QR CODE</title>
+    <link href="https://syj0905.github.io/javascript/20210314/3805875564/"/>
+    <id>https://syj0905.github.io/javascript/20210314/3805875564/</id>
+    <published>2021-03-13T16:45:00.000Z</published>
+    <updated>2021-03-13T16:41:33.635Z</updated>
+    
+    <summary type="html">
+    
+      本篇來介紹純前端生成 QR CODE 的方式
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
+    
+      <category term="jQuery" scheme="https://syj0905.github.io/tags/jQuery/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CSS - 解析網頁尺寸單位</title>
+    <link href="https://syj0905.github.io/css/20210310/745685236/"/>
+    <id>https://syj0905.github.io/css/20210310/745685236/</id>
+    <published>2021-03-10T07:00:00.000Z</published>
+    <updated>2021-03-13T14:01:05.481Z</updated>
+    
+    <summary type="html">
+    
+      本篇來介紹各種網頁尺寸的區別跟使用方法
+    
+    </summary>
+    
+    
+      <category term="CSS" scheme="https://syj0905.github.io/categories/css/"/>
+    
+    
+      <category term="CSS" scheme="https://syj0905.github.io/tags/CSS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript - 如何獲取前 7 天日期</title>
+    <link href="https://syj0905.github.io/javascript/20210222/3564669203/"/>
+    <id>https://syj0905.github.io/javascript/20210222/3564669203/</id>
+    <published>2021-02-22T13:00:00.000Z</published>
+    <updated>2021-03-13T14:01:05.496Z</updated>
+    
+    <summary type="html">
+    
+      使用 new Date 與 getTime() 獲取前 7 天日期
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nuxt 部署策略 - 部署 Google Compute Engine</title>
+    <link href="https://syj0905.github.io/vue/20210205/868523524/"/>
+    <id>https://syj0905.github.io/vue/20210205/868523524/</id>
+    <published>2021-02-05T06:30:00.000Z</published>
+    <updated>2021-03-13T14:01:05.524Z</updated>
+    
+    <summary type="html">
+    
+      本篇將介紹如何將 Nuxt 專案部署至 GCE (Google Compute Engine)
+    
+    </summary>
+    
+    
+      <category term="Vue" scheme="https://syj0905.github.io/categories/vue/"/>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
+    
+      <category term="Nuxt" scheme="https://syj0905.github.io/tags/Nuxt/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nuxt 部署策略 - 部署 Google App Engine</title>
+    <link href="https://syj0905.github.io/vue/20210205/3352502083/"/>
+    <id>https://syj0905.github.io/vue/20210205/3352502083/</id>
+    <published>2021-02-04T17:30:00.000Z</published>
+    <updated>2021-03-13T14:01:05.524Z</updated>
+    
+    <summary type="html">
+    
+      本篇將介紹如何把 Nuxt 專案部屬至 GAE(Google App Engine)
+    
+    </summary>
+    
+    
+      <category term="Vue" scheme="https://syj0905.github.io/categories/vue/"/>
+    
+    
+      <category term="Vue" scheme="https://syj0905.github.io/tags/Vue/"/>
+    
+      <category term="Nuxt" scheme="https://syj0905.github.io/tags/Nuxt/"/>
+    
+      <category term="SEO" scheme="https://syj0905.github.io/tags/SEO/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript 核心 (55) - ES6 章節：Let 及 Const - 標籤樣板字面值</title>
+    <link href="https://syj0905.github.io/javascript/20210204/3639878289/"/>
+    <id>https://syj0905.github.io/javascript/20210204/3639878289/</id>
+    <published>2021-02-04T06:30:00.000Z</published>
+    <updated>2021-03-13T14:01:05.516Z</updated>
+    
+    <summary type="html">
+    
+      本篇來介紹為何要在樣板字面值加入標籤
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
+    
+      <category term="JavaScript 核心篇" scheme="https://syj0905.github.io/tags/JavaScript-%E6%A0%B8%E5%BF%83%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript 核心 (54) - ES6 章節：Let 及 Const - 巢狀結構</title>
+    <link href="https://syj0905.github.io/javascript/20210204/3146715217/"/>
+    <id>https://syj0905.github.io/javascript/20210204/3146715217/</id>
+    <published>2021-02-04T03:00:00.000Z</published>
+    <updated>2021-03-13T14:01:05.516Z</updated>
+    
+    <summary type="html">
+    
+      本篇來介紹樣板字面值的巢狀結構使用方法
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
+    
+      <category term="JavaScript 核心篇" scheme="https://syj0905.github.io/tags/JavaScript-%E6%A0%B8%E5%BF%83%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript 核心 (53) - ES6 章節：Let 及 Const - 樣板字面值（Template literals）基本介紹</title>
+    <link href="https://syj0905.github.io/javascript/20210204/3908712580/"/>
+    <id>https://syj0905.github.io/javascript/20210204/3908712580/</id>
+    <published>2021-02-04T02:30:00.000Z</published>
+    <updated>2021-03-13T14:01:05.516Z</updated>
+    
+    <summary type="html">
+    
+      本篇來介紹樣板字面值的基本用法
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
+    
+      <category term="JavaScript 核心篇" scheme="https://syj0905.github.io/tags/JavaScript-%E6%A0%B8%E5%BF%83%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript 核心 (52) - ES6 章節：Let 及 Const - Let 有沒有 Hoisting？暫時性死區介紹</title>
+    <link href="https://syj0905.github.io/javascript/20210202/2575331614/"/>
+    <id>https://syj0905.github.io/javascript/20210202/2575331614/</id>
+    <published>2021-02-02T06:00:00.000Z</published>
+    <updated>2021-03-13T14:01:05.505Z</updated>
+    
+    <summary type="html">
+    
+      本篇來介紹 let 與 const 有沒有 Hoisting 特性
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
+    
+      <category term="JavaScript 核心篇" scheme="https://syj0905.github.io/tags/JavaScript-%E6%A0%B8%E5%BF%83%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript 核心 (51) - ES6 章節：Let 及 Const - Let, Const 實戰運用技巧</title>
+    <link href="https://syj0905.github.io/javascript/20210202/542658997/"/>
+    <id>https://syj0905.github.io/javascript/20210202/542658997/</id>
+    <published>2021-02-02T04:00:00.000Z</published>
+    <updated>2021-03-13T14:01:05.497Z</updated>
+    
+    <summary type="html">
+    
+      本篇來介紹 var const let 應用上差異
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
+    
+      <category term="JavaScript 核心篇" scheme="https://syj0905.github.io/tags/JavaScript-%E6%A0%B8%E5%BF%83%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript - 移除字串中的表情符號 Emoji</title>
+    <link href="https://syj0905.github.io/javascript/20210202/2024888940/"/>
+    <id>https://syj0905.github.io/javascript/20210202/2024888940/</id>
+    <published>2021-02-02T02:30:00.000Z</published>
+    <updated>2021-03-13T14:01:05.513Z</updated>
+    
+    <summary type="html">
+    
+      本篇來介紹如何使用正則表達式來移除表情符號
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript 核心 (50) - ES6 章節：Let 及 Const - Let, Const 基本概念</title>
+    <link href="https://syj0905.github.io/javascript/20210201/807133580/"/>
+    <id>https://syj0905.github.io/javascript/20210201/807133580/</id>
+    <published>2021-02-01T06:10:00.000Z</published>
+    <updated>2021-03-13T14:01:05.497Z</updated>
+    
+    <summary type="html">
+    
+      本篇來介紹 ES6 新增的變數宣告 let、const 概念
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
+    
+      <category term="JavaScript 核心篇" scheme="https://syj0905.github.io/tags/JavaScript-%E6%A0%B8%E5%BF%83%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript 核心 (49) - 物件屬性延伸 - Getter 與 Setter，賦值運算不使用函式</title>
+    <link href="https://syj0905.github.io/javascript/20210201/3056751174/"/>
+    <id>https://syj0905.github.io/javascript/20210201/3056751174/</id>
+    <published>2021-02-01T04:00:00.000Z</published>
+    <updated>2021-03-13T14:01:05.509Z</updated>
+    
+    <summary type="html">
+    
+      本篇會介紹如何使用物件中的 get 和 set 功能
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
+    
+      <category term="JavaScript 核心篇" scheme="https://syj0905.github.io/tags/JavaScript-%E6%A0%B8%E5%BF%83%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript 核心 (48) - 物件屬性延伸 - 屬性列舉與原型的關係</title>
+    <link href="https://syj0905.github.io/javascript/20210201/3829070841/"/>
+    <id>https://syj0905.github.io/javascript/20210201/3829070841/</id>
+    <published>2021-02-01T03:00:00.000Z</published>
+    <updated>2021-03-13T14:01:05.507Z</updated>
+    
+    <summary type="html">
+    
+      本篇會介紹屬性特徵是如何影響列舉的功能
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
+    
+      <category term="JavaScript 核心篇" scheme="https://syj0905.github.io/tags/JavaScript-%E6%A0%B8%E5%BF%83%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript 套件 - 客製化捲軸 OverlayScrollbars</title>
+    <link href="https://syj0905.github.io/javascript/20210129/3061888294/"/>
+    <id>https://syj0905.github.io/javascript/20210129/3061888294/</id>
+    <published>2021-01-29T15:59:00.000Z</published>
+    <updated>2021-03-13T14:01:05.511Z</updated>
+    
+    <summary type="html">
+    
+      本篇來介紹超好用的客製化捲軸套件
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
+    
+      <category term="Vue" scheme="https://syj0905.github.io/tags/Vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript 核心 (47) - 物件屬性延伸 - 物件屬性不可寫入？物件擴充的修改與調整</title>
+    <link href="https://syj0905.github.io/javascript/20210128/3280985594/"/>
+    <id>https://syj0905.github.io/javascript/20210128/3280985594/</id>
+    <published>2021-01-28T10:00:00.000Z</published>
+    <updated>2021-03-13T14:01:05.507Z</updated>
+    
+    <summary type="html">
+    
+      本篇會介紹物件的擴充、封裝、凍結等設定
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
+    
+      <category term="JavaScript 核心篇" scheme="https://syj0905.github.io/tags/JavaScript-%E6%A0%B8%E5%BF%83%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript 核心 (46) - 物件屬性延伸 - 屬性特徵是什麼?</title>
+    <link href="https://syj0905.github.io/javascript/20210128/616745406/"/>
+    <id>https://syj0905.github.io/javascript/20210128/616745406/</id>
+    <published>2021-01-28T02:15:00.000Z</published>
+    <updated>2021-03-13T14:01:05.508Z</updated>
+    
+    <summary type="html">
+    
+      本篇將深入了解物件屬性的其他用法
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
+    
+      <category term="JavaScript 核心篇" scheme="https://syj0905.github.io/tags/JavaScript-%E6%A0%B8%E5%BF%83%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript 核心 (45) - 繼承與原型鍊 - 原型鏈、建構函式整體結構概念</title>
+    <link href="https://syj0905.github.io/javascript/20210126/579374325/"/>
+    <id>https://syj0905.github.io/javascript/20210126/579374325/</id>
+    <published>2021-01-26T08:00:00.000Z</published>
+    <updated>2021-03-13T14:01:05.513Z</updated>
+    
+    <summary type="html">
+    
+      本篇將完整解析原型鍊、建構函式到底是怎麼運作的。
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
+    
+      <category term="JavaScript 核心篇" scheme="https://syj0905.github.io/tags/JavaScript-%E6%A0%B8%E5%BF%83%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript 核心 (44) - 繼承與原型鍊 - 使用 Object.create 建立多層繼承</title>
+    <link href="https://syj0905.github.io/javascript/20210125/2757333667/"/>
+    <id>https://syj0905.github.io/javascript/20210125/2757333667/</id>
+    <published>2021-01-25T10:30:00.000Z</published>
+    <updated>2021-03-13T14:01:05.508Z</updated>
+    
+    <summary type="html">
+    
+      本篇介紹如何製作更完善的原型鍊
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
+    
+      <category term="JavaScript 核心篇" scheme="https://syj0905.github.io/tags/JavaScript-%E6%A0%B8%E5%BF%83%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript 核心 (43) - 繼承與原型鍊 - 原始型別的包裹物件與原型的關聯</title>
+    <link href="https://syj0905.github.io/javascript/20210125/4216074588/"/>
+    <id>https://syj0905.github.io/javascript/20210125/4216074588/</id>
+    <published>2021-01-25T04:30:00.000Z</published>
+    <updated>2021-03-13T14:01:05.513Z</updated>
+    
+    <summary type="html">
+    
+      運用原始型別包裹物件來新增 prototype 方法
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
+    
+      <category term="JavaScript 核心篇" scheme="https://syj0905.github.io/tags/JavaScript-%E6%A0%B8%E5%BF%83%E7%AF%87/"/>
+    
+  </entry>
+  
+</feed>
