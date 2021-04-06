@@ -71,6 +71,7 @@ category_map:
   NPM: npm
   PWA: pwa
   SCSS: scss
+  Security: security
   VSCode: vscode
   Vue: vue
   Webpack: webpack
