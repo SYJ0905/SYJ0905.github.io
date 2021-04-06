@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://syj0905.github.io/"/>
-  <updated>2021-03-13T16:41:33.635Z</updated>
+  <updated>2021-04-06T15:25:18.395Z</updated>
   <id>https://syj0905.github.io/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Security - SSH keys 或 HTTPS 設定步驟</title>
+    <link href="https://syj0905.github.io/security/20210406/3632503978/"/>
+    <id>https://syj0905.github.io/security/20210406/3632503978/</id>
+    <published>2021-04-06T03:59:00.000Z</published>
+    <updated>2021-04-06T15:25:18.395Z</updated>
+    
+    <summary type="html">
+    
+      本篇來介紹如何生成 SSH 並且綁定 Github 帳號
+    
+    </summary>
+    
+    
+      <category term="Security" scheme="https://syj0905.github.io/categories/security/"/>
+    
+    
+      <category term="SSH" scheme="https://syj0905.github.io/tags/SSH/"/>
+    
+      <category term="Security" scheme="https://syj0905.github.io/tags/Security/"/>
+    
+  </entry>
+  
+  <entry>
     <title>JavaScript - 使用 jQuery 來產生 QR CODE</title>
     <link href="https://syj0905.github.io/javascript/20210314/3805875564/"/>
     <id>https://syj0905.github.io/javascript/20210314/3805875564/</id>
     <published>2021-03-13T16:45:00.000Z</published>
-    <updated>2021-03-13T16:41:33.635Z</updated>
+    <updated>2021-03-13T16:43:49.971Z</updated>
     
     <summary type="html">
     
@@ -436,29 +459,6 @@
     <summary type="html">
     
       本篇介紹如何製作更完善的原型鍊
-    
-    </summary>
-    
-    
-      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
-    
-    
-      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
-    
-      <category term="JavaScript 核心篇" scheme="https://syj0905.github.io/tags/JavaScript-%E6%A0%B8%E5%BF%83%E7%AF%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript 核心 (43) - 繼承與原型鍊 - 原始型別的包裹物件與原型的關聯</title>
-    <link href="https://syj0905.github.io/javascript/20210125/4216074588/"/>
-    <id>https://syj0905.github.io/javascript/20210125/4216074588/</id>
-    <published>2021-01-25T04:30:00.000Z</published>
-    <updated>2021-03-13T14:01:05.513Z</updated>
-    
-    <summary type="html">
-    
-      運用原始型別包裹物件來新增 prototype 方法
     
     </summary>
     
