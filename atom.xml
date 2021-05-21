@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://syj0905.github.io/"/>
-  <updated>2021-04-06T15:25:18.395Z</updated>
+  <updated>2021-05-21T10:04:18.288Z</updated>
   <id>https://syj0905.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript - 取出陣列重複/不重複值的方法</title>
+    <link href="https://syj0905.github.io/javascript/20210521/865415262/"/>
+    <id>https://syj0905.github.io/javascript/20210521/865415262/</id>
+    <published>2021-05-21T10:00:00.000Z</published>
+    <updated>2021-05-21T10:04:18.288Z</updated>
+    
+    <summary type="html">
+    
+      本篇介紹如何取得陣列中重複與不重複值的方法
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
+    
+  </entry>
   
   <entry>
     <title>Security - SSH keys 或 HTTPS 設定步驟</title>
@@ -436,29 +457,6 @@
     <summary type="html">
     
       本篇將完整解析原型鍊、建構函式到底是怎麼運作的。
-    
-    </summary>
-    
-    
-      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
-    
-    
-      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
-    
-      <category term="JavaScript 核心篇" scheme="https://syj0905.github.io/tags/JavaScript-%E6%A0%B8%E5%BF%83%E7%AF%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript 核心 (44) - 繼承與原型鍊 - 使用 Object.create 建立多層繼承</title>
-    <link href="https://syj0905.github.io/javascript/20210125/2757333667/"/>
-    <id>https://syj0905.github.io/javascript/20210125/2757333667/</id>
-    <published>2021-01-25T10:30:00.000Z</published>
-    <updated>2021-03-13T14:01:05.508Z</updated>
-    
-    <summary type="html">
-    
-      本篇介紹如何製作更完善的原型鍊
     
     </summary>
     
