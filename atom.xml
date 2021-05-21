@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://syj0905.github.io/"/>
-  <updated>2021-05-21T10:04:18.288Z</updated>
+  <updated>2021-05-21T16:59:18.326Z</updated>
   <id>https://syj0905.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Vue - 為什麼 Vue 元件中的 data 必須是一個 Function 函數</title>
+    <link href="https://syj0905.github.io/vue/20210522/146109072/"/>
+    <id>https://syj0905.github.io/vue/20210522/146109072/</id>
+    <published>2021-05-21T17:00:00.000Z</published>
+    <updated>2021-05-21T16:59:18.326Z</updated>
+    
+    <summary type="html">
+    
+      本篇介紹為什麼 Vue 元件中的 data 必須得是 Function ?
+    
+    </summary>
+    
+    
+      <category term="Vue" scheme="https://syj0905.github.io/categories/vue/"/>
+    
+    
+      <category term="Vue" scheme="https://syj0905.github.io/tags/Vue/"/>
+    
+  </entry>
   
   <entry>
     <title>JavaScript - 取出陣列重複/不重複值的方法</title>
@@ -167,9 +188,9 @@
     
       <category term="Vue" scheme="https://syj0905.github.io/tags/Vue/"/>
     
-      <category term="Nuxt" scheme="https://syj0905.github.io/tags/Nuxt/"/>
-    
       <category term="SEO" scheme="https://syj0905.github.io/tags/SEO/"/>
+    
+      <category term="Nuxt" scheme="https://syj0905.github.io/tags/Nuxt/"/>
     
   </entry>
   
@@ -434,29 +455,6 @@
     <summary type="html">
     
       本篇將深入了解物件屬性的其他用法
-    
-    </summary>
-    
-    
-      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
-    
-    
-      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
-    
-      <category term="JavaScript 核心篇" scheme="https://syj0905.github.io/tags/JavaScript-%E6%A0%B8%E5%BF%83%E7%AF%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript 核心 (45) - 繼承與原型鍊 - 原型鏈、建構函式整體結構概念</title>
-    <link href="https://syj0905.github.io/javascript/20210126/579374325/"/>
-    <id>https://syj0905.github.io/javascript/20210126/579374325/</id>
-    <published>2021-01-26T08:00:00.000Z</published>
-    <updated>2021-03-13T14:01:05.513Z</updated>
-    
-    <summary type="html">
-    
-      本篇將完整解析原型鍊、建構函式到底是怎麼運作的。
     
     </summary>
     
