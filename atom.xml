@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://syj0905.github.io/"/>
-  <updated>2021-05-21T16:59:18.326Z</updated>
+  <updated>2021-05-22T07:13:44.195Z</updated>
   <id>https://syj0905.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Vue - props.sync 使用方式</title>
+    <link href="https://syj0905.github.io/vue/20210522/2943028405/"/>
+    <id>https://syj0905.github.io/vue/20210522/2943028405/</id>
+    <published>2021-05-22T07:00:00.000Z</published>
+    <updated>2021-05-22T07:13:44.195Z</updated>
+    
+    <summary type="html">
+    
+      本篇介紹該如何使用 .sync 來達成原先的 props emit 父子元件 data 綁定問題
+    
+    </summary>
+    
+    
+      <category term="Vue" scheme="https://syj0905.github.io/categories/vue/"/>
+    
+    
+      <category term="Vue" scheme="https://syj0905.github.io/tags/Vue/"/>
+    
+  </entry>
   
   <entry>
     <title>Vue - 為什麼 Vue 元件中的 data 必須是一個 Function 函數</title>
@@ -432,29 +453,6 @@
     <summary type="html">
     
       本篇會介紹物件的擴充、封裝、凍結等設定
-    
-    </summary>
-    
-    
-      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
-    
-    
-      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
-    
-      <category term="JavaScript 核心篇" scheme="https://syj0905.github.io/tags/JavaScript-%E6%A0%B8%E5%BF%83%E7%AF%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript 核心 (46) - 物件屬性延伸 - 屬性特徵是什麼?</title>
-    <link href="https://syj0905.github.io/javascript/20210128/616745406/"/>
-    <id>https://syj0905.github.io/javascript/20210128/616745406/</id>
-    <published>2021-01-28T02:15:00.000Z</published>
-    <updated>2021-03-13T14:01:05.508Z</updated>
-    
-    <summary type="html">
-    
-      本篇將深入了解物件屬性的其他用法
     
     </summary>
     
