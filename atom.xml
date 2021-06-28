@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://syj0905.github.io/"/>
-  <updated>2021-06-06T17:07:49.682Z</updated>
+  <updated>2021-06-28T13:39:22.519Z</updated>
   <id>https://syj0905.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Vue - 我們為什麼要使用 Vue，Vue 究竟解決了哪些問題?</title>
+    <link href="https://syj0905.github.io/vue/20210628/1916550834/"/>
+    <id>https://syj0905.github.io/vue/20210628/1916550834/</id>
+    <published>2021-06-28T14:00:00.000Z</published>
+    <updated>2021-06-28T13:39:22.519Z</updated>
+    
+    <summary type="html">
+    
+      本篇介紹為什麼要使用 Vue，以及 Vue 究竟解決了哪些問題?
+    
+    </summary>
+    
+    
+      <category term="Vue" scheme="https://syj0905.github.io/categories/vue/"/>
+    
+    
+      <category term="Vue" scheme="https://syj0905.github.io/tags/Vue/"/>
+    
+  </entry>
   
   <entry>
     <title>網站前端效能優化總整理</title>
@@ -230,9 +251,9 @@
     
       <category term="Vue" scheme="https://syj0905.github.io/tags/Vue/"/>
     
-      <category term="SEO" scheme="https://syj0905.github.io/tags/SEO/"/>
-    
       <category term="Nuxt" scheme="https://syj0905.github.io/tags/Nuxt/"/>
+    
+      <category term="SEO" scheme="https://syj0905.github.io/tags/SEO/"/>
     
   </entry>
   
@@ -438,29 +459,6 @@
       <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
     
       <category term="JavaScript 核心篇" scheme="https://syj0905.github.io/tags/JavaScript-%E6%A0%B8%E5%BF%83%E7%AF%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript 套件 - 客製化捲軸 OverlayScrollbars</title>
-    <link href="https://syj0905.github.io/javascript/20210129/3061888294/"/>
-    <id>https://syj0905.github.io/javascript/20210129/3061888294/</id>
-    <published>2021-01-29T15:59:00.000Z</published>
-    <updated>2021-03-13T14:01:05.511Z</updated>
-    
-    <summary type="html">
-    
-      本篇來介紹超好用的客製化捲軸套件
-    
-    </summary>
-    
-    
-      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
-    
-    
-      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
-    
-      <category term="Vue" scheme="https://syj0905.github.io/tags/Vue/"/>
     
   </entry>
   
