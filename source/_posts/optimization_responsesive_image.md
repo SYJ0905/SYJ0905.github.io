@@ -1,5 +1,5 @@
 ---
-title: CSS - 響應式圖片在 Retina 螢幕使用技巧
+title: 響應式圖片在 Retina 螢幕使用技巧
 tags:
   - CSS
   - Image

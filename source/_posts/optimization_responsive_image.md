@@ -1,5 +1,5 @@
 ---
-title: HTML - 響應式圖片技巧
+title: picture tag 響應式圖片技巧
 tags:
   - HTML
   - Image
