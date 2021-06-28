@@ -6,8 +6,9 @@ tags:
   - RWD
   - 圖片最佳化
   - Media Query
+  - Optimization
 categories:
-  - CSS
+  - Optimization
 description: 紀錄響應式圖片在 Retina 螢幕上不失真的小技巧
 abbrlink: 1810131633
 date: 2020-11-23 00:00:00

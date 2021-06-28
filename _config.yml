@@ -69,6 +69,7 @@ category_map:
   jQuery: jQuery
   Nodejs: nodejs
   NPM: npm
+  Optimization: Optimization
   PWA: pwa
   SCSS: scss
   Security: security

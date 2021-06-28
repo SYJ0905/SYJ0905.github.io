@@ -6,11 +6,10 @@ tags:
   - Picture
   - RWD
   - 圖片最佳化
-  - 效能調校
-  - 加載效能
   - Media Query
+  - Optimization
 categories:
-  - HTML
+  - Optimization
 description: 本篇將介紹在網頁中使用圖片時需要注意哪些事以及提高網頁加載效能。
 abbrlink: 3198070904
 date: 2020-11-17 00:00:00

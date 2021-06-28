@@ -2,8 +2,9 @@
 title: 網站前端效能優化總整理
 tags:
   - HTML
+  - Optimization
 categories:
-  - HTML
+  - Optimization
 description: 本篇介紹如何有效的提升前端效能
 abbrlink: 1197578805
 date: 2021-06-07 15:00:00
