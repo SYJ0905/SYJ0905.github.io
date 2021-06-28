@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://syj0905.github.io/"/>
-  <updated>2021-06-28T13:39:22.519Z</updated>
+  <updated>2021-06-28T16:01:24.172Z</updated>
   <id>https://syj0905.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Preload vs Prefetch vs Preconnect 比較</title>
+    <link href="https://syj0905.github.io/Optimization/20210629/1782034678/"/>
+    <id>https://syj0905.github.io/Optimization/20210629/1782034678/</id>
+    <published>2021-06-28T16:00:00.000Z</published>
+    <updated>2021-06-28T16:01:24.172Z</updated>
+    
+    <summary type="html">
+    
+      本篇介紹如何有效的提升前端效能
+    
+    </summary>
+    
+    
+      <category term="Optimization" scheme="https://syj0905.github.io/categories/Optimization/"/>
+    
+    
+      <category term="HTML" scheme="https://syj0905.github.io/tags/HTML/"/>
+    
+      <category term="Optimization" scheme="https://syj0905.github.io/tags/Optimization/"/>
+    
+  </entry>
   
   <entry>
     <title>Vue - 我們為什麼要使用 Vue，Vue 究竟解決了哪些問題?</title>
@@ -39,10 +62,10 @@
   
   <entry>
     <title>網站前端效能優化總整理</title>
-    <link href="https://syj0905.github.io/html/20210607/1197578805/"/>
-    <id>https://syj0905.github.io/html/20210607/1197578805/</id>
+    <link href="https://syj0905.github.io/Optimization/20210607/1197578805/"/>
+    <id>https://syj0905.github.io/Optimization/20210607/1197578805/</id>
     <published>2021-06-07T07:00:00.000Z</published>
-    <updated>2021-06-06T17:07:49.682Z</updated>
+    <updated>2021-06-28T16:04:47.509Z</updated>
     
     <summary type="html">
     
@@ -51,10 +74,12 @@
     </summary>
     
     
-      <category term="HTML" scheme="https://syj0905.github.io/categories/html/"/>
+      <category term="Optimization" scheme="https://syj0905.github.io/categories/Optimization/"/>
     
     
       <category term="HTML" scheme="https://syj0905.github.io/tags/HTML/"/>
+    
+      <category term="Optimization" scheme="https://syj0905.github.io/tags/Optimization/"/>
     
   </entry>
   
@@ -426,29 +451,6 @@
     <summary type="html">
     
       本篇會介紹如何使用物件中的 get 和 set 功能
-    
-    </summary>
-    
-    
-      <category term="JavaScript" scheme="https://syj0905.github.io/categories/javascript/"/>
-    
-    
-      <category term="JavaScript" scheme="https://syj0905.github.io/tags/JavaScript/"/>
-    
-      <category term="JavaScript 核心篇" scheme="https://syj0905.github.io/tags/JavaScript-%E6%A0%B8%E5%BF%83%E7%AF%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript 核心 (48) - 物件屬性延伸 - 屬性列舉與原型的關係</title>
-    <link href="https://syj0905.github.io/javascript/20210201/3829070841/"/>
-    <id>https://syj0905.github.io/javascript/20210201/3829070841/</id>
-    <published>2021-02-01T03:00:00.000Z</published>
-    <updated>2021-03-13T14:01:05.507Z</updated>
-    
-    <summary type="html">
-    
-      本篇會介紹屬性特徵是如何影響列舉的功能
     
     </summary>
     
